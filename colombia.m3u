@@ -372,7 +372,3 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1  tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Caracol TV (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg2cdOVg3NCFdaVsoimzoMtXq_oTq5mWR4jnecyAeYnFQl1TgIeTyseb3nNHP2cbAMNyDtdhTUb3QaYrRJ_BsovffvAO_Ugv9u4PVEw23sYTzDS4y_D2Xcu7ERJKs2tgU0fGNaScQBGy8zrVHB_4dz4jVdRNPZmgFjyb-eub1jkzOCezxHvt6vgN4TDOvTy=s80" group-title="Tecnologia" :http-referrer="" :http-user-agent="",Profekadi (1080p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/kadi/playlist.m3u8
-#EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="Music" :http-referrer="" :http-user-agent="",Tropical TV (480p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
