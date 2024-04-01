@@ -17,8 +17,21 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General" :http-referrer="" :http-user-agent="",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="Music" :http-referrer="" :http-user-agent="",Tropical TV (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="Music" :http-referrer="" :http-user-agent="",Tropical TV
 https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
+
+#EXTINF:-1  tvg-id="MasTV" tvg-logo="https://api.teveo.com.co/1.1/node/poster?x=AgAiAANo" group-title="Music" :http-referrer="" :http-user-agent="",MasTV
+https://edge.teveo.com.co/live/AeAAAgAiAANoA1IAyADIUCAAAAAAAAAAAmYKDEC1M1k8AAAA/playlist.m3u8
+
+
+#EXTINF:-1  tvg-id="CNC Monteria" tvg-logo="https://cncmonteria.com/wp-content/uploads/2023/11/CNC-BLANCO.png" group-title="Variado" :http-referrer="" :http-user-agent="",CNC Monteria
+https://edge.teveo.com.co/live/AeAAAgAfAANlA1IAyADIUDAAAAGAAAAAAmYKEmO1M1k8AAAA/playlist.m3u8
+
+#EXTINF:-1  tvg-id="Canal Cartagena" tvg-logo="https://canalcartagena.com/wp-content/uploads/2021/02/LOGO-FINAL-154-49.png" group-title="Variado" :http-referrer="" :http-user-agent="",Canal Cartagena
+https://edge.teveo.com.co/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmYKE3i1M1k8AAAA/playlist.m3u8
+
+
+
 #EXTINF:-1  tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News" :http-referrer="" :http-user-agent="",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1  tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Institucional (720p) [Not 24/7]
@@ -197,4 +210,17 @@ https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1  tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News" :http-referrer="" :http-user-agent="",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1  tvg-id="Zoom Channel" tvg-logo="https://portal.unicauca.edu.co/versionP/sites/default/files/images/Unimedios_0618_1_04.jpg" group-title="Variado" :http-referrer="https://canalzoom.org/senal-en-vivo" :http-user-agent="",Zoom Channel
+#EXTINF:-1  tvg-id="VaticanNewsEspanol.va" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="News;Religious" :http-referrer="" :http-user-agent="",Vatican News Español
+https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+
+#EXTINF:-1  tvg-id="Canal Zoom" tvg-logo="https://cdn.mitvstatic.com/channels/e6039415-6a4b-44e5-93d5-e54abc51a6e4_m.jpg" group-title="Variado" :http-referrer="" :http-user-agent="",Canal Zoom
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/2560px-FOX_Deportes_logo.svg.png" group-title="Variado" :http-referrer="" :http-user-agent="",Fox Deportes
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
