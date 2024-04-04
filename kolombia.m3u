@@ -387,10 +387,8 @@ http://181.78.105.146:2000/play/a091/index.m3u8
 http://181.78.105.146:2000/play/a096/index.m3u8
 #EXTINF:-1 group-title="Bics Variados", TyC Sports
 http://181.78.105.146:2000/play/a095/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", UNICABLE
+#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/unicable.png" group-title="Variado" :http-referrer="" :http-user-agent="",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", canal 13 Guate
-http://181.78.105.146:2000/play/a08p/index.m3u8
 
 #EXTINF:-1  tvg-id="Canal 13" tvg-logo="https://profekadi.github.io/iptv/logos/Canal13.png" group-title="Variado" :http-referrer="" :http-user-agent="",Canal 13
 http://181.78.105.146:2000/play/a08c/index.m3u8
