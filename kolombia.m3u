@@ -16,7 +16,7 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3
 #EXTINF:-1  tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General" :http-referrer="" :http-user-agent="",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="Music" :http-referrer="" :http-user-agent="",Tropical TV
-https://rpn3.bozztv.com/ssh101/ssh101/estvco/playlist.m3u8
+https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
 #EXTINF:-1  tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News" :http-referrer="" :http-user-agent="",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1  tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Institucional (720p) [Not 24/7]
