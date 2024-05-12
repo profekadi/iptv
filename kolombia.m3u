@@ -1,13 +1,13 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-id="Canal Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/400px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Noticias" :http-referrer="" :http-user-agent="",Canal Caracol HD
+#EXTINF:-1  tvg-id="Canal Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/400px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Caracol HD
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1  tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General" :http-referrer="" :http-user-agent="",Canal RCN - WinSport+
 http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1  tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Variado" :http-referrer="" :http-user-agent="",Caracol
+#EXTINF:-1  tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Caracol
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 #EXTINF:-1  tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 1 HD
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1  tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="Undefined" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe (720p)
+#EXTINF:-1  tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/yuKjGKo.png" group-title="General" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="TelecaribePlus.co" tvg-logo="https://i.imgur.com/mxUso93.png" group-title="Undefined" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecaribe Plus (720p)
@@ -15,31 +15,31 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General" :http-referrer="" :http-user-agent="",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="Music" :http-referrer="" :http-user-agent="",Tropical TV
+#EXTINF:-1  tvg-id="TropicalTV.co" tvg-logo="https://i.imgur.com/mIh3y7K.png" group-title="General" :http-referrer="" :http-user-agent="",Tropical TV
 https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
-#EXTINF:-1  tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News" :http-referrer="" :http-user-agent="",Cablenoticias (1080p)
+#EXTINF:-1  tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="General" :http-referrer="" :http-user-agent="",Cablenoticias (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1  tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Institucional (720p) [Not 24/7]
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Cali TV (540p) [Not 24/7]
+#EXTINF:-1  tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="General" :http-referrer="" :http-user-agent="",Cali TV (540p) [Not 24/7]
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1  tvg-id="Canal14Codazzi.co" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="Entertainment" :http-referrer="" :http-user-agent="",Canal 14 Codazzi (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="Canal14Codazzi.co" tvg-logo="https://i.imgur.com/wNSUMhJ.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1  tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Telepacífico (1080p) [Not 24/7]
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TeleSanJacinto.co" tvg-logo="https://i.imgur.com/t8aT4eT.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Tele San Jacinto (720p)
+#EXTINF:-1  tvg-id="TeleSanJacinto.co" tvg-logo="https://i.imgur.com/t8aT4eT.png" group-title="General" :http-referrer="" :http-user-agent="",Tele San Jacinto (720p)
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:-1  tvg-id="ProfeKadi" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg2cdOVg3NCFdaVsoimzoMtXq_oTq5mWR4jnecyAeYnFQl1TgIeTyseb3nNHP2cbAMNyDtdhTUb3QaYrRJ_BsovffvAO_Ugv9u4PVEw23sYTzDS4y_D2Xcu7ERJKs2tgU0fGNaScQBGy8zrVHB_4dz4jVdRNPZmgFjyb-eub1jkzOCezxHvt6vgN4TDOvTy=s80" group-title="Tecnologia" :http-referrer="" :http-user-agent="",Profekadi (1080p) [Streaming]
 https://rpn3.bozztv.com/ssh101/ssh101/kadi/playlist.m3u8
-#EXTINF:-1  tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor" :http-referrer="" :http-user-agent="",Agrotendencia TV (1080p)
+#EXTINF:-1  tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="General" :http-referrer="" :http-user-agent="",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1  tvg-id="Canal2.co" tvg-logo="https://i.imgur.com/BCrsZTQ.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 2 Cali (720p)
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1  tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Capital (1080p)
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1  tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="Undefined" :http-referrer="" :http-user-agent="",CTV Barranquilla (1080p)
+#EXTINF:-1  tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="General" :http-referrer="" :http-user-agent="",CTV Barranquilla (1080p)
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
-#EXTINF:-1  tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/z18LRqM.png" group-title="Undefined" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecafé (720p)
+#EXTINF:-1  tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/z18LRqM.png" group-title="General" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Telecafé (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="Teleantioquia2.co" tvg-logo="https://i.imgur.com/weLuMcS.png" group-title="General" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Teleantioquia 2 (720p)
@@ -47,19 +47,19 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1  tvg-id="CanalSantaMartaTV.co" tvg-logo="https://i.imgur.com/HbWadhJ.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Santa Marta TV (720p) [Not 24/7]
 https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8
-#EXTINF:-1  tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/bdBduvj.png" group-title="Undefined" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO (1080p)
+#EXTINF:-1  tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/bdBduvj.png" group-title="General":http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="CanalTROPlus.co" tvg-logo="https://i.imgur.com/4lNPj9m.png" group-title="Undefined" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO Plus (1080p) [Geo-blocked]
+#EXTINF:-1  tvg-id="CanalTROPlus.co" tvg-logo="https://i.imgur.com/4lNPj9m.png" group-title="General" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Canal TRO Plus (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="AzCinema.mx" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Movies" :http-referrer="" :http-user-agent="",Az Cinema
+#EXTINF:-1  tvg-id="AzCinema.mx" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="General" :http-referrer="" :http-user-agent="",Az Cinema
 http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
-#EXTINF:-1  tvg-id="Antena3Internacional.es" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Antena 3 Internacional
+#EXTINF:-1  tvg-id="Antena3Internacional.es" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="General":http-referrer="" :http-user-agent="",Antena 3 Internacional
 http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1  tvg-id="AzClic.mx" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entertainment" :http-referrer="" :http-user-agent="",Az Clic
 http://stream.flynetwifi.com:1935/live/mobile-119/playlist.m3u8
-#EXTINF:-1  tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation" :http-referrer="" :http-user-agent="",Anime Zone TV (480p)
+#EXTINF:-1  tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="General" :http-referrer="" :http-user-agent="",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Canal9.co" tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 9 Cosespu (720p)
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
@@ -67,89 +67,89 @@ https://video2.lhdserver.es/canal9cosespu/live.m3u8
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1  tvg-id="Canal55TelemoriscoTV.co" tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="General" :http-referrer="" :http-user-agent="",Canal 55 Telemorisco TV (720p)
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
-#EXTINF:-1  tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="Undefined" :http-referrer="" :http-user-agent="",Canal Más Televisión (720p)
+#EXTINF:-1  tvg-id="CanalMasTelevision.co" tvg-logo="https://i.imgur.com/ODMa27W.jpg" group-title="General" :http-referrer="" :http-user-agent="",Canal Más Televisión (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1  tvg-id="CanalRegionalFTV.co" tvg-logo="https://i.imgur.com/HLM7Iet.jpg" group-title="General" :http-referrer="" :http-user-agent="",Canal Regional FTV (720p)
 https://tvlatina.live:1936/8024/8024/playlist.m3u8
-#EXTINF:-1  tvg-id="CanalTelefamilia.co" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religious" :http-referrer="" :http-user-agent="",Canal Telefamilia (360p) [Not 24/7]
+#EXTINF:-1  tvg-id="CanalTelefamilia.co" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Telefamilia (360p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1  tvg-id="CanalTelesantiago.co" tvg-logo="https://i.imgur.com/DmkH5p8.jpg" group-title="Religious" :http-referrer="" :http-user-agent="",Canal Telesantiago (1080p) [Not 24/7]
+#EXTINF:-1  tvg-id="CanalTelesantiago.co" tvg-logo="https://i.imgur.com/DmkH5p8.jpg" group-title="General" :http-referrer="" :http-user-agent="",Canal Telesantiago (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC0h1kkyzQGnS3yckpyqEJQw.m3u8
 #EXTINF:-1  tvg-id="Canal8TVPlus.co" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 8 TV+ (720p)
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1  tvg-id="CanalVIP.co" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Canal VIP (1080p)
+#EXTINF:-1  tvg-id="CanalVIP.co" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="General" :http-referrer="" :http-user-agent="",Canal VIP (1080p)
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
-#EXTINF:-1  tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Canal Visión Dorada (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="General":http-referrer="" :http-user-agent="",Canal Visión Dorada (720p) [Not 24/7]
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1  tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Undefined" :http-referrer="" :http-user-agent="",24h
+#EXTINF:-1  tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="General":http-referrer="" :http-user-agent="",24h
 http://stream.flynetwifi.com:1935/live/mobile-100/playlist.m3u8
 #EXTINF:-1  tvg-id="CarareTV.co" tvg-logo="https://i.imgur.com/rA9Y0Z1.jpg" group-title="General" :http-referrer="" :http-user-agent="",Carare TV (1080p) [Not 24/7]
 https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
 #EXTINF:-1  tvg-id="CartoonitoLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids" :http-referrer="" :http-user-agent="",Cartoonito
 http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8
-#EXTINF:-1  tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports" :http-referrer="" :http-user-agent="",Claro Sports
+#EXTINF:-1  tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="General" :http-referrer="" :http-user-agent="",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1  tvg-id="CNCHDOnline.co" tvg-logo="https://i.ibb.co/h246PMw/download-9.png" group-title="General" :http-referrer="" :http-user-agent="",CNC HD Online (1080p) [Geo-blocked]
 https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
-#EXTINF:-1  tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies" :http-referrer="" :http-user-agent="",De Película (576p)
+#EXTINF:-1  tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="General" :http-referrer="" :http-user-agent="",De Película (576p)
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies" :http-referrer="" :http-user-agent="",De Película Plus (576p)
+#EXTINF:-1  tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="General" :http-referrer="" :http-user-agent="",De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Undefined" :http-referrer="" :http-user-agent="",HBO
+#EXTINF:-1  tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",HBO
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
-#EXTINF:-1  tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series" :http-referrer="" :http-user-agent="",HBO2
+#EXTINF:-1  tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1  tvg-id="CNCMedellin.co" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Undefined" :http-referrer="" :http-user-agent="",CNC Medellín (720p)
+#EXTINF:-1  tvg-id="CNCMedellin.co" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="General":http-referrer="" :http-user-agent="",CNC Medellín (720p)
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1  tvg-id="CNCPasto.co" tvg-logo="https://i.imgur.com/sFl4XOp.png" group-title="Undefined" :http-referrer="" :http-user-agent="",CNC Pasto (720p) [Geo-blocked]
+#EXTINF:-1  tvg-id="CNCPasto.co" tvg-logo="https://i.imgur.com/sFl4XOp.png" group-title="General" :http-referrer="" :http-user-agent="",CNC Pasto (720p) [Geo-blocked]
 https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1  tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News" :http-referrer="" :http-user-agent="",CNN en Español
 http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
-#EXTINF:-1  tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Cosmovision (720p)
+#EXTINF:-1  tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="General" :http-referrer="" :http-user-agent="",Cosmovision (720p)
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1  tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy" :http-referrer="" :http-user-agent="",Distrito Comedia (576p)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News" :http-referrer="" :http-user-agent="",DW Español (1080p)
+#EXTINF:-1  tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="General" :http-referrer="" :http-user-agent="",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1  tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Golden
+#EXTINF:-1  tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="General":http-referrer="" :http-user-agent="",Golden
 http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
-#EXTINF:-1  tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Golden Edge Panregional (576p)
+#EXTINF:-1  tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="General" :http-referrer="" :http-user-agent="",Golden Edge Panregional (576p)
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious" :http-referrer="" :http-user-agent="",Enlace (720p)
+#EXTINF:-1  tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="General" :http-referrer="" :http-user-agent="",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious" :http-referrer="" :http-user-agent="",EWTN
 http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8
 #EXTINF:-1  tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General" :http-referrer="" :http-user-agent="",Las Estrellas Latin America (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1  tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation" :http-referrer="" :http-user-agent="",Locomotion TV (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="General" :http-referrer="" :http-user-agent="",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1  tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Mi Gente TV (720p) [Geo-blocked]
+#EXTINF:-1  tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="General" :http-referrer="" :http-user-agent="",Mi Gente TV (720p) [Geo-blocked]
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
-#EXTINF:-1  tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="News" :http-referrer="" :http-user-agent="",Noticiero 90 Minutos (720p) [Not 24/7]
+#EXTINF:-1  tvg-id="Noticiero90Minutos.co" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="General" :http-referrer="" :http-user-agent="",Noticiero 90 Minutos (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1  tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education" :http-referrer="" :http-user-agent="",Platzi TV (1080p)
+#EXTINF:-1  tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="General" :http-referrer="" :http-user-agent="",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1  tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment" :http-referrer="" :http-user-agent="",RCN Mas
+#EXTINF:-1  tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="General" :http-referrer="" :http-user-agent="",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment" :http-referrer="" :http-user-agent="",RCN Novelas
+#EXTINF:-1  tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="General" :http-referrer="" :http-user-agent="",RCN Novelas
 http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
-#EXTINF:-1  tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment" :http-referrer="" :http-user-agent="",RCN Xtra (1080p)
+#EXTINF:-1  tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="General" :http-referrer="" :http-user-agent="",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Red+ (1080p)
+#EXTINF:-1  tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="General" :http-referrer="" :http-user-agent="",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1  tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News" :http-referrer="" :http-user-agent="",Russia Today
 http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8
-#EXTINF:-1  tvg-id="SalsaGordaTelevision.co" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Music" :http-referrer="" :http-user-agent="",Salsa Gorda Television (720p)
+#EXTINF:-1  tvg-id="SalsaGordaTelevision.co" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="General" :http-referrer="" :http-user-agent="",Salsa Gorda Television (720p)
 https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1  tvg-id="SuramTV.co" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Suram TV (1080p)
+#EXTINF:-1  tvg-id="SuramTV.co" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="General" :http-referrer="" :http-user-agent="",Suram TV (1080p)
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1  tvg-id="TeleAmiga.co" tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="Undefined" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Amiga (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="TeleAmiga.co" tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="General" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Amiga (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TeleVid.co" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Religious" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Vid (1080p)
+#EXTINF:-1  tvg-id="TeleVid.co" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="General" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele Vid (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:dvrlive.smil/playlist.m3u8?DVR=
-#EXTINF:-1  tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Music" :http-referrer="" :http-user-agent="",Telehit (576p)
+#EXTINF:-1  tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="General" :http-referrer="" :http-user-agent="",Telehit (576p)
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="General" :http-referrer="" :http-user-agent="",Teleislas (486p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
@@ -159,45 +159,45 @@ https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/in
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1  tvg-id="Telepasto.co" tvg-logo="https://i.imgur.com/NJ7J4gJ.jpg" group-title="General" :http-referrer="" :http-user-agent="",Telepasto (360p) [Geo-blocked]
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
-#EXTINF:-1  tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News" :http-referrer="" :http-user-agent="",Telesur
+#EXTINF:-1  tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="General" :http-referrer="" :http-user-agent="",Telesur
 http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8
-#EXTINF:-1  tvg-id="Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Trece (720p)
+#EXTINF:-1  tvg-id="Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="General" :http-referrer="" :http-user-agent="",Trece (720p)
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Trece + (720p)
+#EXTINF:-1  tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="General":http-referrer="" :http-user-agent="",Trece + (720p)
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="TropicalMoonSalsaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music" :http-referrer="" :http-user-agent="",Tropical Moon Salsa TV (720p)
+#EXTINF:-1  tvg-id="TropicalMoonSalsaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="General" :http-referrer="" :http-user-agent="",Tropical Moon Salsa TV (720p)
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-#EXTINF:-1  tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Tu Kanal (1080p)
+#EXTINF:-1  tvg-id="TuKanal.co" tvg-logo="https://i.imgur.com/GJthQOa.png" group-title="General" :http-referrer="" :http-user-agent="",Tu Kanal (1080p)
 http://45.33.63.98/hls/abdi.m3u8
-#EXTINF:-1  tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Religious" :http-referrer="" :http-user-agent="",Tu Universo TV (720p)
+#EXTINF:-1  tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="General" :http-referrer="" :http-user-agent="",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1  tvg-id="TVPenol.co" tvg-logo="https://i.imgur.com/Zm4934Z.png" group-title="General" :http-referrer="" :http-user-agent="",TV Peñol (720p)
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 #EXTINF:-1  tvg-id="TVSanJorge.co" tvg-logo="https://i.imgur.com/vLU4Tcu.png" group-title="General" :http-referrer="" :http-user-agent="",TV San Jorge (1080p) [Not 24/7]
 https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1  tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Undefined" :http-referrer="" :http-user-agent="",TVE
+#EXTINF:-1  tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="General" :http-referrer="" :http-user-agent="",TVE
 http://stream.flynetwifi.com:1935/live/mobile-128/playlist.m3u8
-#EXTINF:-1  tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="Series" :http-referrer="" :http-user-agent="",TVE Star
+#EXTINF:-1  tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="General":http-referrer="" :http-user-agent="",TVE Star
 http://stream.flynetwifi.com:1935/live/mobile-129/playlist.m3u8
-#EXTINF:-1  tvg-id="TVQSports.gt" tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="Sports" :http-referrer="" :http-user-agent="",TVQ Sports (720p)
+#EXTINF:-1  tvg-id="TVQSports.gt" tvg-logo="https://i.imgur.com/CQpuBeQ.png" group-title="General" :http-referrer="" :http-user-agent="",TVQ Sports (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-#EXTINF:-1  tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Undefined" :http-referrer="" :http-user-agent="",UCL (720p)
+#EXTINF:-1  tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="General" :http-referrer="" :http-user-agent="",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1  tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Univision Panregional (576p)
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="General" :http-referrer="" :http-user-agent="",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1  tvg-id="VidaNuevaTV.co" tvg-logo="https://i.imgur.com/HEGEt6m.jpg" group-title="Religious" :http-referrer="" :http-user-agent="",Vida Nueva TV (480p) [Not 24/7]
+#EXTINF:-1  tvg-id="VidaNuevaTV.co" tvg-logo="https://i.imgur.com/HEGEt6m.jpg" group-title="General" :http-referrer="" :http-user-agent="",Vida Nueva TV (480p) [Not 24/7]
 https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
-#EXTINF:-1  tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="Undefined" :http-referrer="" :http-user-agent="",Vive TV Colombia (1080p)
+#EXTINF:-1  tvg-id="ViveTV.co" tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="General":http-referrer="" :http-user-agent="",Vive TV Colombia (1080p)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1  tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News" :http-referrer="" :http-user-agent="",VPItv (1080p)
+#EXTINF:-1  tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="General":http-referrer="" :http-user-agent="",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1  tvg-id="VaticanNewsEspanol.va" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="News;Religious" :http-referrer="" :http-user-agent="",Vatican News Español
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
-#EXTINF:-1  tvg-id="Canal Zoom" tvg-logo="https://cdn.mitvstatic.com/channels/e6039415-6a4b-44e5-93d5-e54abc51a6e4_m.jpg" group-title="Variado" :http-referrer="" :http-user-agent="",Canal Zoom
+#EXTINF:-1  tvg-id="Canal Zoom" tvg-logo="https://cdn.mitvstatic.com/channels/e6039415-6a4b-44e5-93d5-e54abc51a6e4_m.jpg" group-title="General" :http-referrer="" :http-user-agent="",Canal Zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1  tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/2560px-FOX_Deportes_logo.svg.png" group-title="Variado" :http-referrer="" :http-user-agent="",Fox Deportes
+#EXTINF:-1  tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/2560px-FOX_Deportes_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Fox Deportes
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 
@@ -207,9 +207,9 @@ http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="Undefined",AMC Español
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-logo="https://i.imgur.com/L1h6W5Q.png" group-title="General",AMC Español
 http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC+ (1080p)
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="General",AMC+ (1080p)
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
 
@@ -217,9 +217,9 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 
 
 
-#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="General",History
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2
+#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="General",History 2
 http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 
 
@@ -227,168 +227,168 @@ http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1 tvg-id="MASTV.gt" tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" group-title="General",MÁS TV (720p)
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-id="NickJrenEspanol.us" tvg-logo="https://i.imgur.com/OmmWgcr.png" group-title="General",Nick Jr
 http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
 
 ###DEPORTES###
-#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 
+#EXTINF:-1  group-title="General", FOX Sports 
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1  group-title="Bics DEPORTES", FOX Sports 2
+#EXTINF:-1  group-title="General", FOX Sports 2
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1  tvg-id="FOX SPORTS 3" tvg-logo="https://profekadi.github.io/iptv/logos/Fox_sports3.webp" group-title="Deportes" :http-referrer="" :http-user-agent="",FOX SPORTS 3
+#EXTINF:-1  tvg-id="FOX SPORTS 3" tvg-logo="https://profekadi.github.io/iptv/logos/Fox_sports3.webp" group-title="General" :http-referrer="" :http-user-agent="",FOX SPORTS 3
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 ###INFANTIL###
 
-#EXTINF:-1  tvg-id="COMEDY CENTRAL" tvg-logo="https://profekadi.github.io/iptv/logos/comedicentral.svg" group-title="Humor" :http-referrer="" :http-user-agent="",COMEDY CENTRAL
+#EXTINF:-1  tvg-id="COMEDY CENTRAL" tvg-logo="https://profekadi.github.io/iptv/logos/comedicentral.svg" group-title="General" :http-referrer="" :http-user-agent="",COMEDY CENTRAL
 http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", CartoonNetwork
+#EXTINF:-1 group-title="General", CartoonNetwork
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Discovery kids
+#EXTINF:-1 group-title="General", Discovery kids
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", NICKELODEON
+#EXTINF:-1 group-title="General", NICKELODEON
 http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", DH&H
+#EXTINF:-1 group-title="General", DH&H
 http://181.78.105.146:2000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TNTSE
+#EXTINF:-1 group-title="General", TNTSE
 http://181.78.105.146:2000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TNT
+#EXTINF:-1 group-title="General", TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",SONY
+#EXTINF:-1 group-title="General",SONY
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Uno
+#EXTINF:-1 group-title="General",Uno
 http://181.78.105.146:2000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",CANAL DE LAS ESTRELLAS
+#EXTINF:-1 group-title="General",CANAL DE LAS ESTRELLAS
 http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Imagen
+#EXTINF:-1 group-title="General",Imagen
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Cinco
+#EXTINF:-1 group-title="General",Cinco
 http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Multimedios
+#EXTINF:-1 group-title="General",Multimedios
 http://181.78.105.146:2000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Siete
+#EXTINF:-1 group-title="General",Siete
 http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ONCE
+#EXTINF:-1 group-title="General",ONCE
 http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Canal 14
+#EXTINF:-1 group-title="General",Canal 14
 http://181.78.105.146:2000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",UNAM
+#EXTINF:-1 group-title="General",UNAM
 http://181.78.105.146:2000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Canal22
+#EXTINF:-1 group-title="General",Canal22
 http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Congreso
+#EXTINF:-1 group-title="General",Congreso
 http://181.78.105.146:2000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",MVSTV
+#EXTINF:-1 group-title="General",MVSTV
 http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Universal
+#EXTINF:-1 group-title="General",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",WB
+#EXTINF:-1 group-title="General"",WB
 http://181.78.105.146:2000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",AXN
+#EXTINF:-1 group-title="General",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",FX
+#EXTINF:-1 group-title="General",FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Space MX
+#EXTINF:-1 group-title="General",Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",A&E
+#EXTINF:-1 group-title="General",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Investigation Discovery La
+#EXTINF:-1 group-title="General",Investigation Discovery La
 http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",TLC
+#EXTINF:-1 group-title="General",TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Lifetime
+#EXTINF:-1 group-title="General",Lifetime
 http://181.78.105.146:2000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",HOLA
+#EXTINF:-1 group-title="General",HOLA
 http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",E!
+#EXTINF:-1 group-title="General",E!
 http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",VideRola
+#EXTINF:-1 group-title="General",VideRola
 http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Teleritmo
+#EXTINF:-1 group-title="General",Teleritmo
 http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",OnceKids
+#EXTINF:-1 group-title="General",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",DisneyJR
+#EXTINF:-1 group-title="General",DisneyJR
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",AprendeTV2
+#EXTINF:-1 group-title="General",AprendeTV2
 http://181.78.105.146:2000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",IngenioTV
+#EXTINF:-1 group-title="General",IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Discovery
+#EXTINF:-1 group-title="General",Discovery
 http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",NatGeo
+#EXTINF:-1 group-title="General",NatGeo
 http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",History
+#EXTINF:-1 group-title="General",History
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",History2
+#EXTINF:-1 group-title="General",History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Arts
+#EXTINF:-1 group-title="General",Arts
 http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Claro Sport
+#EXTINF:-1 group-title="General",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN 2
+#EXTINF:-1 group-title="General",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN
+#EXTINF:-1 group-title="General",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",ESPN3
+#EXTINF:-1 group-title="General",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",CNNE
+#EXTINF:-1 group-title="General",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Milenio
+#EXTINF:-1 group-title="General",Milenio
 http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",TVC
+#EXTINF:-1 group-title="General",TVC
 http://181.78.105.146:2000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Judicial
+#EXTINF:-1 group-title="General",Judicial
 http://181.78.105.146:2000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",MC
+#EXTINF:-1 group-title="General",MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",CineCanal O
+#EXTINF:-1 group-title="General",CineCanal O
 http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Films
+#EXTINF:-1 group-title="General",Films
 http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",StudioUniversal
+#EXTINF:-1 group-title="General",StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Bics Variados",Paramount
+#EXTINF:-1 group-title="General",Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", AGROTENDENCIA
+#EXTINF:-1 group-title="General", AGROTENDENCIA
 http://181.78.105.146:2000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Azteca 7
+#EXTINF:-1 group-title="General", Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", BANDAMAX
+#EXTINF:-1 group-title="General" BANDAMAX
 http://181.78.105.146:2000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", CTV CANAL
+#EXTINF:-1 group-title="General", CTV CANAL
 http://181.78.105.146:2000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Canal 27 GT
+#EXTINF:-1 group-title="General", Canal 27 GT
 http://181.78.105.146:2000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Caracol TV
+#EXTINF:-1 group-title="General", Caracol TV
 http://181.78.105.146:2000/play/a092/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", DE PELICULA
+#EXTINF:-1 group-title="General", DE PELICULA
 http://181.78.105.146:2000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Distrito Comedia
+#EXTINF:-1 group-title="General", Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Fox Deportes
+#EXTINF:-1 group-title="General", Fox Deportes
 http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", GOLDEN EDGE
+#EXTINF:-1 group-title="General", GOLDEN EDGE
 http://181.78.105.146:2000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Gol TV
+#EXTINF:-1 group-title="General", Gol TV
 http://181.78.105.146:2000/play/a094/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", SKY
+#EXTINF:-1 group-title="General", SKY
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", STARZ 1
+#EXTINF:-1 group-title=""General", STARZ 1
 http://181.78.105.146:2000/play/a097/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TELENOVELAS
+#EXTINF:-1 group-title="General", TELENOVELAS
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TN23
+#EXTINF:-1 group-title="General", TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", TUDN
+#EXTINF:-1 group-title="General", TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Tele Hit
+#EXTINF:-1 group-title="General", Tele Hit
 http://181.78.105.146:2000/play/a091/index.m3u8
-#EXTINF:-1 group-title="Bics Variados", Telemundo Miami
+#EXTINF:-1 group-title="General", Telemundo Miami
 http://181.78.105.146:2000/play/a096/index.m3u8
-#EXTINF:-1  tvg-id="TyC Sport" tvg-logo="https://profekadi.github.io/iptv/logos/TyC_Sports_logo.svg.webp" group-title="Deportes" :http-referrer="" :http-user-agent="",TyC Sport
+#EXTINF:-1  tvg-id="TyC Sport" tvg-logo="https://profekadi.github.io/iptv/logos/TyC_Sports_logo.svg.webp" group-title="General" :http-referrer="" :http-user-agent="",TyC Sport
 http://181.78.105.146:2000/play/a095/index.m3u8
-#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/unicable.png" group-title="Variado" :http-referrer="" :http-user-agent="",Unicable
+#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/unicable.png" group-title="General":http-referrer="" :http-user-agent="",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
-#EXTINF:-1  tvg-id="Canal 13" tvg-logo="https://profekadi.github.io/iptv/logos/Canal13.png" group-title="Variado" :http-referrer="" :http-user-agent="",Canal 13
+#EXTINF:-1  tvg-id="Canal 13" tvg-logo="https://profekadi.github.io/iptv/logos/Canal13.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 13
 http://181.78.105.146:2000/play/a08c/index.m3u8
