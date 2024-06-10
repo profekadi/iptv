@@ -21,12 +21,16 @@ http://181.78.105.146:2000/play/a03k/index.m3u8
 
 #EXTINF:-1  tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="General" :http-referrer="" :http-user-agent="",Canal Institucional (720p) [Not 24/7]
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1  tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="General" :http-referrer="" :http-user-agent="",Cali TV (540p) [Not 24/7]
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+
 #EXTINF:-1  tvg-id="TeleSanJacinto.co" tvg-logo="https://i.imgur.com/t8aT4eT.png" group-title="General" :http-referrer="" :http-user-agent="",Tele San Jacinto (720p)
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
+
 #EXTINF:-1  tvg-id="Canal2.co" tvg-logo="https://i.imgur.com/BCrsZTQ.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 2 Cali (720p)
 https://video13.virtualtronics.com/streamer/canal2.m3u8
+
 #EXTINF:-1  tvg-id="CTV.co" tvg-logo="https://i.imgur.com/w35ICn7.png" group-title="General" :http-referrer="" :http-user-agent="",CTV Barranquilla (1080p)
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1  tvg-id="AzCinema.mx" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="General" :http-referrer="" :http-user-agent="",Az Cinema
@@ -115,212 +119,202 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1  tvg-id="MASTV.gt" tvg-logo="https://i.imgur.com/3XuwlkQ.jpg" group-title="General" :http-referrer="" :http-user-agent="",MÁS TV (720p)
 https://s.emisoras.tv:8081/mastvgt/playlist.m3u8
-#EXTINF:-1  tvg-id="COMEDY CENTRAL" tvg-logo="https://profekadi.github.io/iptv/logos/comedicentral.svg" group-title="General" :http-referrer="" :http-user-agent="",COMEDY CENTRAL
+#EXTINF:-1  tvg-id="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="General" :http-referrer="" :http-user-agent="",COMEDY CENTRAL
 http://181.78.105.146:2000/play/a04a/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Discovery kids
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="General" :http-referrer="" :http-user-agent="",Discovery kids
 http://181.78.105.146:2000/play/a015/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",NICKELODEON
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="General" :http-referrer="" :http-user-agent="",NICKELODEON
 http://181.78.105.146:2000/play/a014/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",DH&H
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/63-633570_h-h-discovery-discovery-home-and-health-logo.png" group-title="General" :http-referrer="" :http-user-agent="",DH&H
 http://181.78.105.146:2000/play/a03g/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TNTSE
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="General" :http-referrer="" :http-user-agent="",TNTSE
 http://181.78.105.146:2000/play/a00m/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TNT
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",SONY
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="General" :http-referrer="" :http-user-agent="",SONY
 http://181.78.105.146:2000/play/a002/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Uno
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="General" :http-referrer="" :http-user-agent="",Uno
 http://181.78.105.146:2000/play/a04p/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",CANAL DE LAS ESTRELLAS
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="General" :http-referrer="" :http-user-agent="",CANAL DE LAS ESTRELLAS
 http://181.78.105.146:2000/play/a00g/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Imagen
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="General" :http-referrer="" :http-user-agent="",Imagen
 http://181.78.105.146:2000/play/a00h/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Cinco
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="General" :http-referrer="" :http-user-agent="",Cinco
 http://181.78.105.146:2000/play/a038/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Multimedios
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Multimedios
 http://181.78.105.146:2000/play/a039/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Siete
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Siete
 http://181.78.105.146:2000/play/a00i/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",ONCE
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="General" :http-referrer="" :http-user-agent="",ONCE
 http://181.78.105.146:2000/play/a03a/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Canal 14
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1200px-Logo_Canal_14_M%C3%A9xico.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 14
 http://181.78.105.146:2000/play/a044/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",UNAM
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="General" :http-referrer="" :http-user-agent="",UNAM
 http://181.78.105.146:2000/play/a045/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Canal22
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/800px-Logo_XEIMT-TV.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Canal22
 http://181.78.105.146:2000/play/a00j/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Congreso
-http://181.78.105.146:2000/play/a046/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",MVSTV
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="General" :http-referrer="" :http-user-agent="",MVSTV
 http://181.78.105.146:2000/play/a03b/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Universal
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="General" :http-referrer="" :http-user-agent="",Universal
 http://181.78.105.146:2000/play/a03d/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",WB
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="General" :http-referrer="" :http-user-agent="",WB
 http://181.78.105.146:2000/play/a01f/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",AXN
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="General" :http-referrer="" :http-user-agent="",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",FX
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Space MX
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Space MX
 http://181.78.105.146:2000/play/a04x/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",A&E
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Investigation Discovery La
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Investigation Discovery La
 http://181.78.105.146:2000/play/a04y/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TLC
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Lifetime
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Lifetime
 http://181.78.105.146:2000/play/a01i/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",HOLA
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="General" :http-referrer="" :http-user-agent="",HOLA
 http://181.78.105.146:2000/play/a00n/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",E!
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/186px-E%21_Logo_2012.svg.png" group-title="General" :http-referrer="" :http-user-agent="",E!
 http://181.78.105.146:2000/play/a03i/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",VideRola
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="General" :http-referrer="" :http-user-agent="",VideoRola
 http://181.78.105.146:2000/play/a04c/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Teleritmo
+#EXTINF:-1  tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_11/large.240290097_4854171147929884_5105968485464299234_n.jpg.0e5094cea415b571df070f985512b6e2.jpg" group-title="General" :http-referrer="" :http-user-agent="",Teleritmo
 http://181.78.105.146:2000/play/a03u/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",OnceKids
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Once_ni%C3%B1as_y_ni%C3%B1os_2020.svg/1200px-Once_ni%C3%B1as_y_ni%C3%B1os_2020.svg.png" group-title="General" :http-referrer="" :http-user-agent="",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",DisneyJR
+#EXTINF:-1  tvg-id="" tvg-logo="https://1.bp.blogspot.com/--wsL0w-A1cQ/X8KwRDuIVrI/AAAAAAAA7WQ/nxCXkrJ-xS48mwsrdsBoYWw2zsYuA0z4ACLcBGAsYHQ/s0/Disney_Junior_2017.png" group-title="General" :http-referrer="" :http-user-agent="",DisneyJR
 http://181.78.105.146:2000/play/a03j/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",AprendeTV2
+#EXTINF:-1  tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Aprende-TV-en-vivo-Online.png" group-title="General" :http-referrer="" :http-user-agent="",AprendeTV2
 http://181.78.105.146:2000/play/a04h/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",IngenioTV
+#EXTINF:-1  tvg-id="" tvg-logo="https://agronoticias.com.mx/wp-content/uploads/2020/06/LOGO-IngenioTV.png" group-title="General" :http-referrer="" :http-user-agent="",IngenioTV
 http://181.78.105.146:2000/play/a04i/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Discovery
+#EXTINF:-1  tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="General" :http-referrer="" :http-user-agent="",Discovery
 http://181.78.105.146:2000/play/a03x/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",NatGeo
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",NatGeo
 http://181.78.105.146:2000/play/a01l/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",History
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",History
 http://181.78.105.146:2000/play/a017/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",History2
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="General" :http-referrer="" :http-user-agent="",History2
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Arts
+#EXTINF:-1  tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/vector-diseno-plantilla-logotipo-canal-arte-emblema-concepto-diseno-simbolo-creativo-icono_316488-2213.jpg" group-title="General" :http-referrer="" :http-user-agent="",Arts
 http://181.78.105.146:2000/play/a04j/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Claro Sport
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",ESPN
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="General" :http-referrer="" :http-user-agent="",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",ESPN3
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="General" :http-referrer="" :http-user-agent="",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="General" :http-referrer="" :http-user-agent="",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",CNNE
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="General" :http-referrer="" :http-user-agent="",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Milenio
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="General" :http-referrer="" :http-user-agent="",Milenio
 http://181.78.105.146:2000/play/a00y/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TVC
+#EXTINF:-1  tvg-id="" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="General" :http-referrer="" :http-user-agent="",TVC
 http://181.78.105.146:2000/play/a04m/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Judicial
-http://181.78.105.146:2000/play/a04n/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",MC
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="General" :http-referrer="" :http-user-agent="",MC
 http://181.78.105.146:2000/play/a01o/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",CineCanal O
+#EXTINF:-1  tvg-id="" tvg-logo="https://1.bp.blogspot.com/-JIT9WNIXU7o/X8KMqyMKEyI/AAAAAAAA7UA/vvyQuT2RKcwkEhk64G-C-RNc1TdeK6kogCLcBGAsYHQ/s0/Cinecanal2018.png" group-title="General" :http-referrer="" :http-user-agent="",CineCanal O
 http://181.78.105.146:2000/play/a04q/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Films
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="General" :http-referrer="" :http-user-agent="",Films
 http://181.78.105.146:2000/play/a08i/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",StudioUniversal
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/640px-StudioUniversal2016.png" group-title="General" :http-referrer="" :http-user-agent="",StudioUniversal
 http://181.78.105.146:2000/play/a04o/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Paramount
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/1200px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",AGROTENDENCIA
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/LOGO_AGROTENDENCIA.png" group-title="General" :http-referrer="" :http-user-agent="",AGROTENDENCIA
 http://181.78.105.146:2000/play/a08b/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Azteca 7
+#EXTINF:-1  tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Azteca 7
 http://181.78.105.146:2000/play/a08z/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",#EXTINF:-1 group-title="General" BANDAMAX
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="General" "group-title="General" BANDAMAX
 http://181.78.105.146:2000/play/a08h/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",CTV CANAL
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/250px-CTV_logo_2018.svg.png" group-title="General" :http-referrer="" :http-user-agent="",CTV CANAL
 http://181.78.105.146:2000/play/a08s/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Canal 27 GT
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal27GT_Logo.png/640px-Canal27GT_Logo.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 27 GT
 http://181.78.105.146:2000/play/a08x/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Distrito Comedia
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="General" :http-referrer="" :http-user-agent="",Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Fox Deportes
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/640px-GOLTV.png" group-title="General" :http-referrer="" :http-user-agent="",GOL TV (Inglés)
 http://181.78.105.146:2000/play/a093/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",GOLDEN EDGE
-http://181.78.105.146:2000/play/a08k/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Gol TV
-http://181.78.105.146:2000/play/a094/index.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",SKY
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/2560px-Sky_Sports_logo_2017.svg.png" group-title="General" :http-referrer="" :http-user-agent="",SKY
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="" :http-referrer="" :http-user-agent="",STARZ 1
-http://181.78.105.146:2000/play/a097/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TELENOVELAS
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",TELENOVELAS
 http://181.78.105.146:2000/play/a08d/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TN23
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TN232022.webp/800px-TN232022.webp.png" group-title="General" :http-referrer="" :http-user-agent="",TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",TUDN
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="General" :http-referrer="" :http-user-agent="",Telemundo Miami
-http://181.78.105.146:2000/play/a096/index.m3u8
 
 #EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/unicable.png" group-title="General" :http-referrer="" :http-user-agent="",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
