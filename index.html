@@ -3,25 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contenido del Directorio</title>
+    <title>Contenido del Repositorio</title>
+    <style>
+        body {
+            background: linear-gradient(45deg, #0000FF, #0099FF, #00FFFF);
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: rgba(255, 255, 255, 0.1);
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            width: 100%;
+            max-width: 600px;
+            word-break: break-word;
+        }
+    </style>
 </head>
 <body>
-    <h1>Selecciona una carpeta para ver su contenido</h1>
-    <input type="file" id="fileInput" webkitdirectory multiple>
-    <ul id="fileList"></ul>
+    <h1>Contenido del Repositorio</h1>
+    <ul id="file-list"></ul>
 
     <script>
-        document.getElementById('fileInput').addEventListener('change', function(event) {
-            const fileList = document.getElementById('fileList');
-            fileList.innerHTML = '';
+        async function fetchRepositoryContent() {
+            const username = 'TU_NOMBRE_DE_USUARIO';
+            const repo = 'TU_NOMBRE_DE_REPOSITORIO';
+            const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/`;
 
-            const files = event.target.files;
-            for (const file of files) {
-                const listItem = document.createElement('li');
-                listItem.textContent = file.webkitRelativePath;
-                fileList.appendChild(listItem);
+            try {
+                const response = await fetch(apiUrl);
+                const data = await response.json();
+
+                if (Array.isArray(data)) {
+                    const fileList = document.getElementById('file-list');
+                    data.forEach(file => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = file.name;
+                        fileList.appendChild(listItem);
+                    });
+                } else {
+                    console.error('El contenido del repositorio no es un arreglo:', data);
+                }
+            } catch (error) {
+                console.error('Error al obtener el contenido del repositorio:', error);
             }
-        });
+        }
+
+        fetchRepositoryContent();
     </script>
 </body>
 </html>
