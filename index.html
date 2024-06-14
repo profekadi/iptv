@@ -3,71 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Índice de Proyectos de Profe Kadi en GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            padding: 50px 0;
-            background: #333;
-            color: white;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2.5em;
-        }
-        .content {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
-        .project {
-            background: white;
-            margin: 20px 0;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            width: 48%;
-        }
-        .project img {
-            max-width: 100%;
-            height: auto;
-        }
-        .project h2 {
-            margin-top: 0;
-        }
-        .project p {
-            line-height: 1.6;
-        }
-        footer {
-            text-align: center;
-            padding: 20px 0;
-            background: #333;
-            color: white;
-            margin-top: 20px;
-        }
-    </style>
+    <title>Contenido del Directorio</title>
 </head>
 <body>
-    <header>
-        <h1>Índice de Proyectos de Profe Kadi en GitHub</h1>
-        <p>Explora nuestros proyectos sobre tecnología, informática e inteligencia artificial</p>
-    </header>
+    <h1>Selecciona una carpeta para ver su contenido</h1>
+    <input type="file" id="fileInput" webkitdirectory multiple>
+    <ul id="fileList"></ul>
 
-    <div class="container">
-        <div class="content">
-            <div class="project">
-                <img src="https://via.placeholder.com/400x200?text=Tecnología" alt="Proyecto Tecnología">
-                
+    <script>
+        document.getElementById('fileInput').addEventListener('change', function(event) {
+            const fileList = document.getElementById('fileList');
+            fileList.innerHTML = '';
+
+            const files = event.target.files;
+            for (const file of files) {
+                const listItem = document.createElement('li');
+                listItem.textContent = file.webkitRelativePath;
+                fileList.appendChild(listItem);
+            }
+        });
+    </script>
 </body>
 </html>
