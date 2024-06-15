@@ -16,13 +16,17 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3
 
 
 
-
-
-
 #EXTINF:-1  tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General" :http-referrer="" :http-user-agent="",Canal 1 HD
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1  tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General" :http-referrer="" :http-user-agent="",Señal Colombia 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="471" tvg-name="City TV" tvg-logo="https://profekadi.github.io/iptv/logos/citytv.png", City TV
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+
+
 
 #EXTINF:-1  tvg-id="TropicalTV.co""tvg-logo="https://raw.githubusercontent.com/profekadi/iptv/main/logos/tropicaltv.png" group-title="General" :http-referrer="" :http-user-agent="",Tropical TV
 https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
@@ -34,10 +38,6 @@ https://ssh101-fl.bozztv.com/ssh101/videoenvivo/index.m3u8
 
 #EXTINF:-1 tvg-id="471" tvg-name="Canal8Sincelejo" tvg-logo="https://profekadi.github.io/iptv/logos/canal8.jpg", Canal8Sincelejo
 https://canal.mediaserver.com.co/live/canal8sincelejo.m3u8?hls_ctx=325v0o96
-
-
-#EXTINF:-1 tvg-id="471" tvg-name="MasTV" tvg-logo="https://profekadi.github.io/iptv/logos/mastv.png", MasTV
-https://edge.teveo.com.co/live/AeAAAgAiAANoA1IAyADIUCAAAAAAAAAAAmZsS46-eYNSAAAA/chunklist_w364341386.m3u8
 
 
 
@@ -179,6 +179,11 @@ http://181.78.105.146:2000/play/a08t/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/63-633570_h-h-discovery-discovery-home-and-health-logo.png" group-title="General" :http-referrer="" :http-user-agent="",DH&H
 http://181.78.105.146:2000/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-id="471" tvg-name="Todo Cine" tvg-logo="https://profekadi.github.io/iptv/logos/todocine.png", Todo Cine
+https://ssh101-fl.bozztv.com/ssh101/123456789/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1  tvg-id="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="General" :http-referrer="" :http-user-agent="",AMC+ 
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
