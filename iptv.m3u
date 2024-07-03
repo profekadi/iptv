@@ -28,21 +28,6 @@ https://ssh101-fl.bozztv.com/ssh101/videoenvivo/index.m3u8
 #EXTINF:-1 tvg-id="Canal8" tvg-logo="https://profekadi.github.io/iptv/logos/canal8.jpg" group-title="Regionales",Canal8Sincelejo
 https://canal.mediaserver.com.co/live/canal8sincelejo.m3u8?hls_ctx=325v0o96
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantiles",CartoonNetwork
-http://181.78.105.146:2000/play/a03k/index.m3u8
-
-#EXTINF:-1 tvg-id="OnceKids" tvg-logo="https://profekadi.github.io/iptv/logos/ok.png" group-title="Infantiles",OnceKids
-http://181.78.105.146:2000/play/a04f/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJR" tvg-logo="https://profekadi.github.io/iptv/logos/dj.png" group-title="Infantiles",DisneyJR
-http://181.78.105.146:2000/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://profekadi.github.io/iptv/logos/dk.png" group-title="Infantiles",DiscoveryKids
-http://181.78.105.146:2000/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-id="Nikelodeon" tvg-logo="https://profekadi.github.io/iptv/logos/Nickelodeon.png" group-title="Infantiles",Nikelodeon
-http://181.78.105.146:2000/play/a014/index.m3u8
-
 #EXTINF:-1 tvg-id="CaliTV" tvg-logo="https://profekadi.github.io/iptv/logos/CaliTV.png" group-title="Regionales",CaliTV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
@@ -60,6 +45,24 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3
 
 #EXTINF:-1 tvg-id="TeleSanJacinto" tvg-logo="https://profekadi.github.io/iptv/logos/tsj.png" group-title="Regionales",TeleSanJacinto
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantiles",CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="OnceKids" tvg-logo="https://profekadi.github.io/iptv/logos/ok.png" group-title="Infantiles",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJR" tvg-logo="https://profekadi.github.io/iptv/logos/dj.png" group-title="Infantiles",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://profekadi.github.io/iptv/logos/dk.png" group-title="Infantiles",DiscoveryKids
+http://181.78.105.146:2000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="Nikelodeon" tvg-logo="https://profekadi.github.io/iptv/logos/Nickelodeon.png" group-title="Infantiles",Nikelodeon
+http://181.78.105.146:2000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv Vaticano" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="Religioso",Tv Vaticano
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
@@ -107,7 +110,7 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 http://181.78.105.146:2000/play/a05y/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://profekadi.github.io/iptv/logos/Canal-5-México.png" group-title="Variado",Canal 5
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://profekadi.github.io/iptv/logos/Canal5.png" group-title="Variado",Canal 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://profekadi.github.io/iptv/logos/dch.png" group-title="Variado",Discovery
@@ -165,29 +168,37 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 
 
 #EXTINF:-1  tvg-id="Canal13" tvg-logo="https://profekadi.github.io/iptv/logos/Canal13.png" group-title="Internacional" :http-referrer="" :http-user-agent="",Canal13
-http://181.78.105.146:2000/play/a08f/index.m3u8
+http://181.78.105.146:2000/play/a08g/index.m3u8
+
+
 
 #EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/unicable.png" group-title="Internacional" :http-referrer="" :http-user-agent="",Unicable
-http://181.78.105.146:2000/play/a08c/index.m3u8
+http://181.78.105.146:2000/play/a08f/index.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TN232022.webp/800px-TN232022.webp.png" group-title="Internacional" :http-referrer="" :http-user-agent="",TN23
 http://181.78.105.146:2000/play/a08g/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
+#EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://profekadi.github.io/iptv/logos/retroplus.png" group-title="Internacional",Retro Plus TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1545" tvg-name="Estacion Retro" tvg-logo="https://cdn.m3u.cl/logo/1545_Estacion_Retro.png", Estacion Retro ✪ | CO
+
+
+
+#EXTINF:-1 tvg-id="Estacion Retro" tvg-logo="https://profekadi.github.io/iptv/logos/estacionretro.png" group-title="Internacional",Estacion Retro
 https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png", Tele Familia | CO
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
+
+
+#EXTINF:-1 tvg-id="Recuerdos Retro" tvg-logo="https://profekadi.github.io/iptv/logos/recuerdo radio.png" group-title="Internacional",Recuerdos Retro
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://cdn.m3u.cl/logo/471_Memorias_TV.png", Memorias TV | PE
+
+
+#EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://profekadi.github.io/iptv/logos/memoriastv.png" group-title="Internacional",Memorias TV
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8?PlaylistM3UCL
 
 
