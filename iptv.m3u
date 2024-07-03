@@ -14,10 +14,18 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-id="CanalInstitucional" tvg-logo="https://profekadi.github.io/iptv/logos/Inst.png" group-title="Nacionales",CanalInstitucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElTiempoTV.co" tvg-logo="https://profekadi.github.io/iptv/logos/et.png" group-title="Nacionales",El Tiempo TV
+https://ythls.armelin.one/channel/UCe5-b0fCK3eQCpwS6MT0aNw.m3u8
+
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://profekadi.github.io/iptv/logos/Red.png" group-title="Nacionales",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 
 #EXTINF:-1 tvg-id="CityTv" tvg-logo="https://profekadi.github.io/iptv/logos/citytv.png" group-title="Regionales",CityTv
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Regionales",Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropicalTv" tvg-logo="https://profekadi.github.io/iptv/logos/tropicaltv.png" group-title="Regionales",TropicalTv
 https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
@@ -27,6 +35,13 @@ https://ssh101-fl.bozztv.com/ssh101/videoenvivo/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal8" tvg-logo="https://profekadi.github.io/iptv/logos/canal8.jpg" group-title="Regionales",Canal8Sincelejo
 https://canal.mediaserver.com.co/live/canal8sincelejo.m3u8?hls_ctx=325v0o96
+
+
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-logo="https://i.imgur.com/edaAexc.png" group-title="Regionales",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+
+#EXTINF:-1 tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Regionales",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
 
 #EXTINF:-1 tvg-id="CaliTV" tvg-logo="https://profekadi.github.io/iptv/logos/CaliTV.png" group-title="Regionales",CaliTV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
@@ -64,8 +79,26 @@ http://181.78.105.146:2000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Nikelodeon" tvg-logo="https://profekadi.github.io/iptv/logos/Nickelodeon.png" group-title="Infantiles",Nikelodeon
 http://181.78.105.146:2000/play/a014/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Infantiles",Eureka
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Tv Vaticano" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="Religioso",Tv Vaticano
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
+
+
+#EXTINF:-1 tvg-id="JesusTV.gt" tvg-logo="https://profekadi.github.io/iptv/logos/jtv.png" group-title="Religioso",Canal 98 Jesús TV
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
+
+
+#EXTINF:-1 tvg-id="CanalCatolicodeNicaragua.ni" tvg-logo="https://profekadi.github.io/iptv/logos/ccnlogo.png" group-title="Religioso",Canal Católico de Nicaragua
+https://ythls.armelin.one/channel/UCiM9RDZNNaR7FJYmxbKLXPQ.m3u8
+
+#EXTINF:-1 tvg-id="Televida.cl" tvg-logo="https://i.imgur.com/bmNA8hq.png" group-title="Religioso",Televida 
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal Zoom" tvg-logo="https://profekadi.github.io/iptv/logos/zoom.png" group-title="Educativo",Canal Zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
@@ -172,7 +205,7 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 
 
 
-#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/unicable.png" group-title="Internacional" :http-referrer="" :http-user-agent="",Unicable
+#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/uni-cable.png" group-title="Internacional" :http-referrer="" :http-user-agent="",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TN232022.webp/800px-TN232022.webp.png" group-title="Internacional" :http-referrer="" :http-user-agent="",TN23
@@ -201,11 +234,73 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://profekadi.github.io/iptv/logos/memoriastv.png" group-title="Internacional",Memorias TV
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Internacional",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Internacional",Televisa Puebla
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Internacional",TV Perú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Internacional",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
+
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://profekadi.github.io/iptv/logos/TVE-HD.png" group-title="Internacional",TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Internacional",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://profekadi.github.io/iptv/logos/RCN_XTRA.png" group-title="Internacional",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Internacional",Telemicro
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="Internacional",TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://i.imgur.com/z8M0Dpy.png" group-title="Internacional",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Internacional",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Internacional",VPItv
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo PR" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Internacional",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+
+#EXTINF:-1 tvg-id="VMLatino.cr" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Música",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="Música",Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Música",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 
 
