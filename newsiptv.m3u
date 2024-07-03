@@ -1,0 +1,36 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Canal Caracol" tvg-logo="https://profekadi.github.io/iptv/logos/caracol.png" group-title="Nacionales",Canal Caracol
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-id="WinSport+" tvg-logo="https://profekadi.github.io/iptv/logos/winsport%2B.png" group-title="Nacionales",WinSport+
+http://186.148.163.18:8000/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://profekadi.github.io/iptv/logos/canal1.png" group-title="Nacionales",Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-id="Señal Colombia" tvg-logo="https://profekadi.github.io/iptv/logos/senal.png" group-title="Nacionales",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTv" tvg-logo="https://profekadi.github.io/iptv/logos/citytv.png" group-title="Regionales",CityTv
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+
+#EXTINF:-1 tvg-id="TropicalTv" tvg-logo="https://profekadi.github.io/iptv/logos/tropicaltv.png" group-title="Regionales",TropicalTv
+https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal14Regional" tvg-logo="https://profekadi.github.io/iptv/logos/canal14regional.png" group-title="Regionales",Canal14Regional
+https://ssh101-fl.bozztv.com/ssh101/videoenvivo/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal8" tvg-logo="https://profekadi.github.io/iptv/logos/canal8.jpg" group-title="Regionales",Canal8Sincelejo
+https://canal.mediaserver.com.co/live/canal8sincelejo.m3u8?hls_ctx=325v0o96
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantiles",CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="OnceKids" tvg-logo="https://profekadi.github.io/iptv/logos/ok.png" group-title="Infantiles",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJR" tvg-logo="https://profekadi.github.io/iptv/logos/dj.png" group-title="Infantiles",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://profekadi.github.io/iptv/logos/dk.png" group-title="Infantiles",DiscoveryKids
+http://181.78.105.146:2000/play/a015/index.m3u8
