@@ -1,15 +1,326 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap04
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E04.mp4.mp4
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap05
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E05.mp4.mp4
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap06
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E06.mp4.mp4
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap07
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E07.mp4.mp4
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap08
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E08.mp4.mp4
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap09
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E09.mp4.mp4
-#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/sa.86.jpg" group-title="Series",SA 86 T1-Cap10
-https://ia601409.us.archive.org/13/items/sa-86-s-01-e-09.mp-4_202212/SA86_-_S01E10.mp4.mp4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap01
+https://webservice.profekadi.com/SA86/T01/01.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap02
+https://webservice.profekadi.com/SA86/T01/02.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap03
+https://webservice.profekadi.com/SA86/T01/03.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap04
+https://webservice.profekadi.com/SA86/T01/04.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap05
+https://webservice.profekadi.com/SA86/T01/05.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap06
+https://webservice.profekadi.com/SA86/T01/06.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap07
+https://webservice.profekadi.com/SA86/T01/07.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap08
+https://webservice.profekadi.com/SA86/T01/08.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap09
+https://webservice.profekadi.com/SA86/T01/09.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap10
+https://webservice.profekadi.com/SA86/T01/10.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap11
+https://webservice.profekadi.com/SA86/T01/11.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap12
+https://webservice.profekadi.com/SA86/T01/12.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap13
+https://webservice.profekadi.com/SA86/T01/13.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap14
+https://webservice.profekadi.com/SA86/T01/14.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/1.png" group-title="Super Agente 86 - Temp 01",Cap15
+https://webservice.profekadi.com/SA86/T01/15.MP4
+
+
+
+
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap01
+https://webservice.profekadi.com/SA86/T02/01.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap02
+https://webservice.profekadi.com/SA86/T02/02.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap03
+https://webservice.profekadi.com/SA86/T02/03.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap04
+https://webservice.profekadi.com/SA86/T02/04.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap05
+https://webservice.profekadi.com/SA86/T02/05.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap06
+https://webservice.profekadi.com/SA86/T02/06.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap07
+https://webservice.profekadi.com/SA86/T02/07.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap08
+https://webservice.profekadi.com/SA86/T02/08.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap09
+https://webservice.profekadi.com/SA86/T02/09.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap10
+https://webservice.profekadi.com/SA86/T02/10.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap11
+https://webservice.profekadi.com/SA86/T02/11.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap12
+https://webservice.profekadi.com/SA86/T02/12.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap13
+https://webservice.profekadi.com/SA86/T02/13.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap14
+https://webservice.profekadi.com/SA86/T02/14.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap15
+https://webservice.profekadi.com/SA86/T02/15.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap16
+https://webservice.profekadi.com/SA86/T02/16.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap17
+https://webservice.profekadi.com/SA86/T02/17.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap18
+https://webservice.profekadi.com/SA86/T02/18.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap19
+https://webservice.profekadi.com/SA86/T02/19.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap20
+https://webservice.profekadi.com/SA86/T02/20.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap21
+https://webservice.profekadi.com/SA86/T02/21.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap22
+https://webservice.profekadi.com/SA86/T02/22.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap23
+https://webservice.profekadi.com/SA86/T02/23.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap24
+https://webservice.profekadi.com/SA86/T02/24.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap25
+https://webservice.profekadi.com/SA86/T02/25.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap26
+https://webservice.profekadi.com/SA86/T02/26.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap27
+https://webservice.profekadi.com/SA86/T02/27.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap28
+https://webservice.profekadi.com/SA86/T02/28.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap29
+https://webservice.profekadi.com/SA86/T02/29.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/2.png" group-title="Super Agente 86 - Temp 02",Cap30
+https://webservice.profekadi.com/SA86/T02/30.MP4
+
+
+
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap01
+https://webservice.profekadi.com/SA86/T03/01.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap02
+https://webservice.profekadi.com/SA86/T03/02.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap03
+https://webservice.profekadi.com/SA86/T03/03.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap04
+https://webservice.profekadi.com/SA86/T03/04.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap05
+https://webservice.profekadi.com/SA86/T03/05.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap06
+https://webservice.profekadi.com/SA86/T03/06.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap07
+https://webservice.profekadi.com/SA86/T03/07.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap08
+https://webservice.profekadi.com/SA86/T03/08.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap09
+https://webservice.profekadi.com/SA86/T03/09.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap10
+https://webservice.profekadi.com/SA86/T03/10.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap11
+https://webservice.profekadi.com/SA86/T03/11.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap12
+https://webservice.profekadi.com/SA86/T03/12.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap13
+https://webservice.profekadi.com/SA86/T03/13.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap14
+https://webservice.profekadi.com/SA86/T03/14.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap15
+https://webservice.profekadi.com/SA86/T03/15.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap16
+https://webservice.profekadi.com/SA86/T03/16.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap17
+https://webservice.profekadi.com/SA86/T03/17.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap18
+https://webservice.profekadi.com/SA86/T03/18.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap19
+https://webservice.profekadi.com/SA86/T03/19.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap20
+https://webservice.profekadi.com/SA86/T03/20.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap21
+https://webservice.profekadi.com/SA86/T03/21.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap22
+https://webservice.profekadi.com/SA86/T03/22.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap23
+https://webservice.profekadi.com/SA86/T03/23.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap24
+https://webservice.profekadi.com/SA86/T03/24.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap25
+https://webservice.profekadi.com/SA86/T03/25.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/3.png" group-title="Super Agente 86 - Temp 03",Cap26
+https://webservice.profekadi.com/SA86/T03/26.MP4
+
+
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap01
+https://webservice.profekadi.com/SA86/T04/01.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap02
+https://webservice.profekadi.com/SA86/T04/02.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap03
+https://webservice.profekadi.com/SA86/T04/03.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap04
+https://webservice.profekadi.com/SA86/T04/04.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap05
+https://webservice.profekadi.com/SA86/T04/05.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap06
+https://webservice.profekadi.com/SA86/T04/06.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap07
+https://webservice.profekadi.com/SA86/T04/07.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap08
+https://webservice.profekadi.com/SA86/T04/08.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap09
+https://webservice.profekadi.com/SA86/T04/09.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap10
+https://webservice.profekadi.com/SA86/T04/10.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap11
+https://webservice.profekadi.com/SA86/T04/11.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap12
+https://webservice.profekadi.com/SA86/T04/12.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap13
+https://webservice.profekadi.com/SA86/T04/13.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap14
+https://webservice.profekadi.com/SA86/T04/14.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap15
+https://webservice.profekadi.com/SA86/T04/15.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap16
+https://webservice.profekadi.com/SA86/T04/16.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap17
+https://webservice.profekadi.com/SA86/T04/17.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap18
+https://webservice.profekadi.com/SA86/T04/18.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap19
+https://webservice.profekadi.com/SA86/T04/19.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap20
+https://webservice.profekadi.com/SA86/T04/20.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap21
+https://webservice.profekadi.com/SA86/T04/21.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap22
+https://webservice.profekadi.com/SA86/T04/22.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap23
+https://webservice.profekadi.com/SA86/T04/23.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap24
+https://webservice.profekadi.com/SA86/T04/24.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap25
+https://webservice.profekadi.com/SA86/T04/25.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/4.png" group-title="Super Agente 86 - Temp 04",Cap26
+https://webservice.profekadi.com/SA86/T04/26.MP4
+
+
+
+
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap01
+https://webservice.profekadi.com/SA86/T06/01.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap02
+https://webservice.profekadi.com/SA86/T06/02.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap03
+https://webservice.profekadi.com/SA86/T06/03.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap04
+https://webservice.profekadi.com/SA86/T06/04.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap05
+https://webservice.profekadi.com/SA86/T06/05.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap06
+https://webservice.profekadi.com/SA86/T06/06.MP4
+
+#EXTINF:-1 tvg-id="SA86" tvg-logo="https://profekadi.github.io/iptv/logos/SA86/6.png" group-title="Super Agente 86 - Temp 06",Cap07
+https://webservice.profekadi.com/SA86/T06/07.MP4
