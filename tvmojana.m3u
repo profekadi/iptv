@@ -1,0 +1,4 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="Tv Mojana Canal 4" tvg-logo="https://tvmojanacanal4.com/images/logo.png" group-title="Tv Mojana Canal 4",Tv Mojana Canal 4
+https://glb.bozztv.com/glb/ssh101/tvmojanacanal4/index.m3u8
