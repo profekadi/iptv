@@ -32,7 +32,7 @@ https://ssh101-fl.bozztv.com/ssh101/estvco/index.m3u8
 https://ssh101-fl.bozztv.com/ssh101/videoenvivo/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal8" tvg-logo="https://profekadi.github.io/iptv/logos/canal8.jpg" group-title="Regionales",Canal8Sincelejo
-https://canal.mediaserver.com.co/live/canal8sincelejo.m3u8?hls_ctx=325v0o96
+https://glb.bozztv.com/glb/ssh101/envivocanal8/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv Mojana Canal 4" tvg-logo="https://tvmojanacanal4.com/images/logo.png" group-title="Regionales",Tv Mojana Canal 4
 https://glb.bozztv.com/glb/ssh101/tvmojanacanal4/index.m3u8
