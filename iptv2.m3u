@@ -123,8 +123,6 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUXbV5
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleislas.png" group-title="Colombia",Telislas
 "http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXm1EVAKill-vnjaGWaEXVx
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/canal2cali.png" group-title="Colombia",Canal 2  Cali
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsV89uPE5N_vJHhDsIKtrdTb
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/senal.png" group-title="Colombia",Señal Colombia
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsX5TZ0rKNy-TkNIFbgwozUl
@@ -152,7 +150,7 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5qGAd
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5MoL3Q5I0vpTH-2Hr3VZsM
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/capital.png" group-title="Colombia",CANAL CAPITAL (exclusivo)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/capital.png" group-title="Colombia",CANAL CAPITAL
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-7KacHlrvq0jEje465RTd7F
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/90.png" group-title="Colombia",NOTICIERO 90 MINUTOS
@@ -167,3 +165,21 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-51y7b
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telesur.png" group-title="Colombia",Telesur
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z2U-vknqZgdCPzl2GPR1_u84E9jbBx01iR3LRVv4BN-2
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Colombia",CartoonNetwork
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z48KaCDiN1sINntDgjKCpTSI8QA0OLyL1aRpX66QNiGu
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Discovery_kids.png" group-title="Colombia",Discovery Kids
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z48KaCDiN1sINntDgjKCpTTvhy-zRTujRPjlJZ6PpUDx
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/disney.png" group-title="Colombia",Disney Channel
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z48KaCDiN1sINntDgjKCpTRdSAMtgM1BVRBgOihUPx45
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinecanal.png" group-title="Colombia",XENA
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqA9Pfv02yPqqW3EzpsKOlHu
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/marvel.png" group-title="Colombia",Cinema Marvel
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z85-SI8FtZf4TD9LEScWl9ceRvecR2S9C0mdg96llkjY
