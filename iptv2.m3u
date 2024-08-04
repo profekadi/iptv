@@ -202,25 +202,25 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqD0SAX
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpKeB1Ntsd_o4fudbVqn-Hs
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO 2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO 2
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpigvXJOkqOk-AYKJQ3RTb0
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Extreme
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Extreme
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7b-p2_lslUhL6zdFsiZT_X2
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Mundi
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Mundi
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLrVN2wtphqH7UJ1W9wR77eC
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Signature
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Signature
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLrAioixAZDVa52D-e_3LwCk
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Family
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Family
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpFRvp13TGmwF1JoRREHw1n
 
 
@@ -234,3 +234,9 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7ZbqWb
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/space.png" group-title="Colombia",Space
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7YNJajfRJTkF9WyOvNZLvsk
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/FX.png" group-title="Colombia",FX
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7YUlKF3yaZw1jsbqXFRCUrt
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Warner.png" group-title="Colombia",WARNER
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7aXbuwcKqil9Osbcw__ZZYK
