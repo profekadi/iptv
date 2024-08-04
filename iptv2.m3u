@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logospremium/caracol.png" group-title="Colombia",Caracol
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Colombia",Caracol
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWQC8tJqDGTKRwlMaUQLYxQ
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracolhd.png" group-title="Colombia",Caracol HD
@@ -44,136 +44,126 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWziCe
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUOM_rBO1HuLuVq8cZ8l-ku
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Canal 1
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWOLh0_EviNJp9TXeAZBL-S
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WinSport+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win.png" group-title="Colombia",WinSport+
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmiza_WENAe9h2_brpgx10Wn
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WinSport+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmjjzMnNqwxq42F87nlTXGeD
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WinSport+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmg3YtEIh5UgVFiqKxj5AWmr
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WinSport+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmiCepwPA6bYGDaqGSVSb1zg
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WinSport+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmj8OJR67S91hCteljKRx0bo
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WinSport+ full
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+ full
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmizdPPUDZ0VTKP7c851wXuC
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Canal 1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/uno.png" group-title="Colombia",Canal 1
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVpJmDvzcgnQgjbloI73o3p
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",City TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/city.png" group-title="Colombia",City TV
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVuRtaMsOf6hJr9o9LG17AP
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",City TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/city.png" group-title="Colombia",City TV
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUApsGE5jDaOxPUdDAruftR
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",CityTv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/city.png" group-title="Colombia",CityTv
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z0yqdZvVVLkRBqdd4VbjJdcH-m-H7F269E77_2mCVfjJ
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Cablenoticias
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/cablenoticias.png" group-title="Colombia",Cablenoticias
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWIKtfZqJq_cWKnvFeveyn2
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Cablenoticias
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/cablenoticias.png" group-title="Colombia",Cablenoticias
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUhHbmfyC_iYVHnIDhiSXWm
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Teleantioquia HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleantioquia.png" group-title="Colombia",Teleantioquia HD
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUkpDD8oGYgkkmTLGFkYm2X
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Teleantioquia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleantioquia.png" group-title="Colombia",Teleantioquia
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXfk9a9TMDLSW_9mRcNfxk6
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telecafe
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecafe.png" group-title="Colombia",Telecafe
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVKSimjrSdG1VUEreFyLaM8
 
   
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telecafe
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecafe.png" group-title="Colombia",Telecafe
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVehlkhSmBhI0LizaDjduIV
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telecaribe
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecaribe.png" group-title="Colombia",Telecaribe
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXtraWDIUOpGnpcPd8fcZZ9
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telecaribe Plus
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecaribe+.png" group-title="Colombia",Telecaribe Plus
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUmwz2HMNSrOuFU5T6GOxnv
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telepacifico
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telepacifico.png" group-title="Colombia",Telepacifico
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVqLCoFyz_vsvWNMtcVYzGE
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telepacifico
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telepacifico.png" group-title="Colombia",Telepacifico
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUrj8ZcQdziM3j6yR4qbvMN
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telemedellin
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telemedellin.png" group-title="Colombia",Telemedellin
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWiYLP97mt0rJjeu9n-5L9U
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telemedellin
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telemedellin.png" group-title="Colombia",Telemedellin
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUXbV5mBcddsvTMMkWFpIVV
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telislas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleislas.png" group-title="Colombia",Telislas
 "http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXm1EVAKill-vnjaGWaEXVx
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Canal 2  Cali
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/canal2cali.png" group-title="Colombia",Canal 2  Cali
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsV89uPE5N_vJHhDsIKtrdTb
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Señal Colombia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/senal.png" group-title="Colombia",Señal Colombia
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsX5TZ0rKNy-TkNIFbgwozUl
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Canal Institucional
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/institucional.png" group-title="Colombia",Canal Institucional
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-7fAY3grwF7EBTkfsUuzqjk
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",El Tiempo TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/eltiempo.png" group-title="Colombia",El Tiempo TV
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-6UrJ4ZR8gbL0VM4iXXFbir
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",LA KALLE
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5CYJTjxWMsRwOqfVxipZq2
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",RED + NOTICIAS
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/red+.png" group-title="Colombia",RED + NOTICIAS
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-552FjBZW47Km7dJG4r0hje
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",CALI TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/calitv.png" group-title="Colombia",CALI TV
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-42j1tmg3BY-GTE7Ni0ZBaj
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",CANAL TRECE
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/trece.png" group-title="Colombia",CANAL TRECE
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-4SI6Hd2FEGTQss_xypRQyj
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",CANAL VISION DORADA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/visiondorada.png" group-title="Colombia",CANAL VISION DORADA
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5qGAdiGwgqyxm-1PLS73uV
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",COSMOVISION
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/cosmovision.png" group-title="Colombia",COSMOVISION
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5MoL3Q5I0vpTH-2Hr3VZsM
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",CANAL SURAM
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5Q4gWlb-qSVIpk_m_RE29y
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",CANAL CAPITAL (exclusivo)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/capital.png" group-title="Colombia",CANAL CAPITAL (exclusivo)
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-7KacHlrvq0jEje465RTd7F
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",NOTICIERO 90 MINUTOS
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/90.png" group-title="Colombia",NOTICIERO 90 MINUTOS
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-4vfONVckRvrGsn_7mLTIbq
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WILLAX (exclusivo hd)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/willax.png" group-title="Colombia",WILLAX 
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5jZ6TjNfnzH2PHcyg8Mdty
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",WILLAX TV HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/willaxhd.png" group-title="Colombia",WILLAX TV HD
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-51y7bTav4BjkuH7UkqUdkk
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",LATINA TV HD
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-4jZdg72qIKDdIewJdct5No
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/iptvsierra.png" group-title="Colombia",Telesur
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telesur.png" group-title="Colombia",Telesur
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z2U-vknqZgdCPzl2GPR1_u84E9jbBx01iR3LRVv4BN-2
