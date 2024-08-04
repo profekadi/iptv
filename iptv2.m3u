@@ -62,6 +62,8 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmj8OJR
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+ full
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmizdPPUDZ0VTKP7c851wXuC
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/TUDN.png" group-title="Colombia",TUDN HD
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8pcMcn47RZu4sddJ9p2ZFqLvzd7zIRJqaNoj88f9rLa
 
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/uno.png" group-title="Colombia",Canal 1
@@ -183,3 +185,52 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqA9Pfv
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/marvel.png" group-title="Colombia",Cinema Marvel
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z85-SI8FtZf4TD9LEScWl9ceRvecR2S9C0mdg96llkjY
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Sony_Channel_Logo.png" group-title="Colombia",SONY Cine
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z6be5QkbAeHKeFXp2nixaenhCa7rREOlSfzi79R8Z8vT
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/np.png" group-title="Colombia",NETFLIX Películas
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqCSiPlfpxqPsol4OLNeFBXV
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/ap.png" group-title="Colombia",Amazon Prime Películas
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqAG8xPML4vwI2EDMb2UJB8-
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",Paranormal
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqD0SAXrUrsWOv86LiOGjzCx
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpKeB1Ntsd_o4fudbVqn-Hs
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO 2
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpigvXJOkqOk-AYKJQ3RTb0
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Extreme
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7b-p2_lslUhL6zdFsiZT_X2
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Mundi
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLrVN2wtphqH7UJ1W9wR77eC
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Signature
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLrAioixAZDVa52D-e_3LwCk
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",HBO Family
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpFRvp13TGmwF1JoRREHw1n
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/ng.png" group-title="Colombia",Nat Geo
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3aUiHOzOv8-1POHC28LAKcPjC0Vmupsr0Y6lbhgVuo-
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/studiouniversal.png" group-title="Colombia",Studio Universal
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7ZbqWb-sLVxEXK6OBV1RtAN
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/space.png" group-title="Colombia",Space
+http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7YNJajfRJTkF9WyOvNZLvsk
