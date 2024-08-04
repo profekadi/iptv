@@ -1,14 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/1.png" group-title="Colombia",Caracol
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/logo.png" group-title="Colombia",Caracol
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWQC8tJqDGTKRwlMaUQLYxQ
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/2.png" group-title="Colombia",Caracol HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/logo.png" group-title="Colombia",Caracol HD
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWriLGYo5rnp071t30Xr8SH
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/ahora.png" group-title="Colombia",Caracol
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/logo.png" group-title="Colombia",Caracol
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXsJOuaCHzokMEH997uCiUB
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/3.png" group-title="Colombia",Caracol Full HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/logo.png" group-title="Colombia",Caracol Full HD
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWDUnWmMfmYTJWo5mxqpc83
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/1.png" group-title="Colombia",Caracol Internacional
@@ -32,11 +32,11 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWULuP
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/1.png" group-title="Colombia",RCN Novelas
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVi1F-CFI9u522uCsWOD-5e
  
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/novelas.png" group-title="Colombia",RCN Novelas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/2.png" group-title="Colombia",RCN Novelas
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXp_0u6oI44M-CzzCc3PNMy
    
   
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/2" group-title="Colombia",NTN 24
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/2.png" group-title="Colombia",NTN 24
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWziCeePMGEXPRzVjMKZoF6
 
 
@@ -44,5 +44,5 @@ http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWziCe
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUOM_rBO1HuLuVq8cZ8l-ku
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/1.png" group-title="Colombia",WinSport+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/logo.png" group-title="Colombia",WinSport+
 http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmiza_WENAe9h2_brpgx10Wn
