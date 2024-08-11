@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal Uno
 http://186.148.163.18:8000/play/a002
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal Caracol 
@@ -11,72 +12,63 @@ http://186.148.163.18:8000/play/a005
 http://186.148.163.18:8000/play/a006
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Señal Colombia
 http://186.148.163.18:8000/play/a007
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Espn
-http://186.148.163.18:8000/play/a008
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Señal Colombia
+http://181.78.6.106:45000/play/b079
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Señal Colombia
+http://181.78.6.106:45000/play/a03l
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Zoom 
 http://186.148.163.18:8000/play/a009
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Zoom
+http://181.78.6.106:45000/play/a00d
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery H&H
 http://186.148.163.18:8000/play/a010
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",10
-http://186.148.163.18:8000/play/a011
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",11
-http://186.148.163.18:8000/play/a012
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Espn 5
-http://186.148.163.18:8000/play/a013
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Disney Channel
 http://186.148.163.18:8000/play/a014
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery Channel
 http://186.148.163.18:8000/play/a015
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Animal Planet
 http://186.148.163.18:8000/play/a016
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Warner Bross
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Warner Bross
 http://186.148.163.18:8000/play/a017
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",17
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",E!
 http://186.148.163.18:8000/play/a018
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",18
-http://186.148.163.18:8000/play/a019
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal de las Estrellas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Canal de las Estrellas
 http://186.148.163.18:8000/play/a029
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Enlace Tv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Religioso",Enlace Tv
 http://186.148.163.18:8000/play/a036
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Nikelodeon
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",Nikelodeon
 http://186.148.163.18:8000/play/a037
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Nat Geo
 http://186.148.163.18:8000/play/a038
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Histoy Channel
 http://186.148.163.18:8000/play/a039
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Win Sports +
-http://186.148.163.18:8000/play/a043
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal Caracol HD
 http://186.148.163.18:8000/play/a045
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Paramount Network
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Paramount Network
 http://186.148.163.18:8000/play/a046
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Studio Universal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Studio Universal
 http://186.148.163.18:8000/play/a047
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Cinema Universal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Cinema Universal
 http://186.148.163.18:8000/play/a049
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Espn Premium HD
-http://186.148.163.18:8000/play/a050
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",History2 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",History2 HD
 http://186.148.163.18:8000/play/a051
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",HBO Family HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",HBO Family HD
 http://186.148.163.18:8000/play/a052
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",HBO Xtreme HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",HBO Xtreme HD
 http://186.148.163.18:8000/play/a053
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Telecafé
 http://186.148.163.18:8000/play/a055
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal 13
 http://186.148.163.18:8000/play/a056
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TNT Novelas HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",TNT Novelas HD
 http://186.148.163.18:8000/play/a057
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",AXN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",AXN
 http://181.78.6.106:45000/play/a00k
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales,Animal Planet
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Animal Planet
 http://181.78.6.106:45000/play/a006
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",BABY TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",BABY TV
 http://181.78.6.106:45000/play/b0114
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",BETHEL TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Religioso",BETHEL TV
 http://181.78.6.106:45000/play/a037
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CABLENOTICIAS
 http://181.78.6.106:45000/play/b098
@@ -86,27 +78,27 @@ http://181.78.6.106:45000/play/b086
 http://181.78.6.106:45000/play/b0105
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CANAL CORAL
 http://181.78.6.106:45000/play/b0102
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CANAL ESTRELLAS
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",CANAL ESTRELLAS
 http://181.78.6.106:45000/play/a03e
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CANAL TRECE
 http://181.78.6.106:45000/play/b0100
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CANAL TRO
 http://181.78.6.106:45000/play/b096
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CINE FAMILIAR
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",CINE FAMILIAR
 http://181.78.6.106:45000/play/b0116
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CINE HISPANO
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",CINE HISPANO
 http://181.78.6.106:45000/play/b0117
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CINE INFANTIL
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",CINE INFANTIL
 http://181.78.6.106:45000/play/b0118
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CINE PREMIUN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",CINE PREMIUN
 http://181.78.6.106:45000/play/b0115
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CINECANAL
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",CINECANAL
 http://181.78.6.106:45000/play/b089
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CITY TV
 http://181.78.6.106:45000/play/a02v
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CRISTOVISION
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Religioso",CRISTOVISION
 http://181.78.6.106:45000/play/b093
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",CUBAVISION
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Internacionales",CUBAVISION
 http://181.78.6.106:45000/play/a036
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Canal Caracol
 http://181.78.6.106:45000/play/a02d
@@ -118,107 +110,118 @@ http://181.78.6.106:45000/play/a02e
 http://181.78.6.106:45000/play/a02c
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Caracol HD
 http://181.78.6.106:45000/play/a00b
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Cinemax
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Cinemax
 http://181.78.6.106:45000/play/a00l
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",DE PELICULA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",DE PELICULA
 http://181.78.6.106:45000/play/b088
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",DE PELICULA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",DE PELICULA
 http://181.78.6.106:45000/play/a039
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",DISNEY CHANNEL
 http://181.78.6.106:45000/play/b072
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",DISNEY CHANNEL CERETE
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",DISNEY CHANNEL CERETE
 http://181.78.6.106:45000/play/a03f
 #EXTINF:-1,DISNEY JR_CERETE
 http://181.78.6.106:45000/play/a03c
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",DISNEY JUNIOR
 http://181.78.6.106:45000/play/b071
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery Channel
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Discovery Channel
 http://181.78.6.106:45000/play/a00e
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery H&H
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Discovery H&H
 http://181.78.6.106:45000/play/a008
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery ID
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Discovery ID
 http://181.78.6.106:45000/play/a007
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery Kids
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",Discovery Kids
 http://181.78.6.106:45000/play/a003
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Discovery Turbo
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Discovery Turbo
 http://181.78.6.106:45000/play/a004
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ENLACE
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Religioso",ENLACE
 http://181.78.6.106:45000/play/b095
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ENLACE2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Religioso",ENLACE2
 http://181.78.6.106:45000/play/a03a
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 1
-http://181.78.6.106:45000/play/b0113
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 2
-http://181.78.6.106:45000/play/b0112
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 2 
-http://181.78.6.106:45000/play/a03d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 3
-http://181.78.6.106:45000/play/b0111
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 3 HD
-http://181.78.6.106:45000/play/a03k
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 4
-http://181.78.6.106:45000/play/b074
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 5
-http://181.78.6.106:45000/play/a028
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 6
-http://181.78.6.106:45000/play/a03h
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 7
-http://181.78.6.106:45000/play/a03i
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",ESPN 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Win Sports+ HD
+http://181.78.6.106:45000/play/a014
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Win Sports +
+http://186.148.163.18:8000/play/a043
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn
+http://186.148.163.18:8000/play/a008
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 
 http://181.78.6.106:45000/play/a03g
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",FOX SPORT
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 1
+http://181.78.6.106:45000/play/b0113
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 2
+http://181.78.6.106:45000/play/b0112
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 2 
+http://181.78.6.106:45000/play/a03d
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 3
+http://181.78.6.106:45000/play/b0111
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 3 HD
+http://181.78.6.106:45000/play/a03k
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 4
+http://181.78.6.106:45000/play/b074
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 5
+http://181.78.6.106:45000/play/a028
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 5
+http://186.148.163.18:8000/play/a019
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 5
+http://186.148.163.18:8000/play/a013
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 6
+http://181.78.6.106:45000/play/a03h
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn 7
+http://181.78.6.106:45000/play/a03i
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",Espn Premium HD
+http://186.148.163.18:8000/play/a050
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",FOX SPORT
 http://181.78.6.106:45000/play/b075
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",FX
-http://181.78.6.106:45000/play/b076
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",FX
-http://181.78.6.106:45000/play/a00s
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Fox Sports 3 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",FOX SPORT 2
+http://181.78.6.106:45000/play/a01r
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Deportes",FOX SPORT 3 HD
 http://181.78.6.106:45000/play/a01b
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",GOLDEN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",FX
+http://181.78.6.106:45000/play/b076
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",FX
+http://181.78.6.106:45000/play/a00s
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",GOLDEN
 http://181.78.6.106:45000/play/b0110
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",INSTITUCIONAL
 http://181.78.6.106:45000/play/b0106
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Lifetime
 http://181.78.6.106:45000/play/a00f
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",MI MUSICA POPULAR
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Musica",MI MUSICA POPULAR
 http://181.78.6.106:45000/play/b0120
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",MI MUSICA REGGAETON
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Musica",MI MUSICA REGGAETON
 http://181.78.6.106:45000/play/b0119
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",MI MUSICA ROMANTICA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Musica",MI MUSICA ROMANTICA
 http://181.78.6.106:45000/play/b0122
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",MI MUSICA SALSA
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Musica",MI MUSICA SALSA
 http://181.78.6.106:45000/play/b0121
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",MTV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Musica",MTV
 http://181.78.6.106:45000/play/a03b
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",NAT GEO
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",NAT GEO
 http://181.78.6.106:45000/play/a01y
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Nat Geo HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",Nat Geo HD
 http://181.78.6.106:45000/play/a010
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Nick jr
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",Nick jr
 http://181.78.6.106:45000/play/a00m
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Nickelodeon
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantil",Nickelodeon
 http://181.78.6.106:45000/play/a00a
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",RCN NOVELAS
 http://181.78.6.106:45000/play/a03j
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",RUMBA TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Musica",RUMBA TV
 http://181.78.6.106:45000/play/b097
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Rx_CANAL CHD
 http://181.78.6.106:45000/play/a009
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Rx_El Gourmet HD
 http://181.78.6.106:45000/play/a00n
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",FOX SPORT 2
-http://181.78.6.106:45000/play/a01r
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Pasiones
 http://181.78.6.106:45000/play/a00j
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",SENAL COLOMBIA
-http://181.78.6.106:45000/play/b079
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",SENAL COLOMBIA
-http://181.78.6.106:45000/play/a03l
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",STAR CHANEL
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",STAR CHANEL
 http://181.78.6.106:45000/play/a00t
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",START CHANNEL
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",START CHANNEL
 http://181.78.6.106:45000/play/b087
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Space HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Space HD
 http://181.78.6.106:45000/play/a01e
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELEAMIGA
 http://181.78.6.106:45000/play/b082
@@ -228,47 +231,43 @@ http://181.78.6.106:45000/play/b092
 http://181.78.6.106:45000/play/b0104
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELECARIBE
 http://181.78.6.106:45000/play/b077
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Telecaribe
+http://181.78.6.106:45000/play/a030
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELEMEDELLIN
 http://181.78.6.106:45000/play/b094
 #EXTINF:-1,TELEMUNDO CERETE
 http://181.78.6.106:45000/play/a020
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELENOSTALGIA
 http://181.78.6.106:45000/play/b0108
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELENOVELAS
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Entretenimiento",TELENOVELAS
 http://181.78.6.106:45000/play/b073
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELEPACIFICO
 http://181.78.6.106:45000/play/b0101
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELESISTEMA
 http://181.78.6.106:45000/play/b081
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELESUR
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Internacionales",TELESUR
 http://181.78.6.106:45000/play/b080
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TELEVIDA
 http://181.78.6.106:45000/play/b085
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TLC
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",TLC
 http://181.78.6.106:45000/play/a005
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TOOMCAST
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Infantiles",TOOMCAST
 http://181.78.6.106:45000/play/b0107
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TV HOGAR
 http://181.78.6.106:45000/play/b070
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TVAGRO
 http://181.78.6.106:45000/play/b0109
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TVE
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Internacionales",TVE
 http://181.78.6.106:45000/play/a016
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Teleantioquia
 http://181.78.6.106:45000/play/a02t
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Telecafe
 http://181.78.6.106:45000/play/a031
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Telecaribe
-http://181.78.6.106:45000/play/a030
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Teleislas
 http://181.78.6.106:45000/play/a00g
 #EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Telepacifico
 http://181.78.6.106:45000/play/a02u
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",TyC
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",TyC
 http://181.78.6.106:45000/play/a00i
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Win Sports+ HD
-http://181.78.6.106:45000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Zoom
-http://181.78.6.106:45000/play/a00d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Nacionales",Cinecanal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://hosting.profekadi.com/estudiante/kadi/tucannet.png" group-title="Cine",Cinecanal
 http://181.78.6.106:45000/play/a00r
