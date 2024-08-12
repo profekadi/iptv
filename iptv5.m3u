@@ -118,6 +118,8 @@ https://movil.ejeserver.com/live/telesanjacinto.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantil",CartoonNetwork
 http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantil",CartoonNetwork HD
+http://177.93.37.56:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="OnceKids" tvg-logo="https://profekadi.github.io/iptv/logos/ok.png" group-title="Infantil",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJR" tvg-logo="https://profekadi.github.io/iptv/logos/dj.png" group-title="Infantil",DisneyJR
@@ -220,6 +222,24 @@ http://181.78.6.106:45000/play/b0110
 http://181.78.6.106:45000/play/a005
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
 http://181.78.6.106:45000/play/a00t
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
+http://177.93.37.56:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD
+http://177.93.37.56:8000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD2
+http://177.93.37.56:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD3
+http://177.93.37.56:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD4
+http://177.93.37.56:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel TVE
+http://177.93.37.56:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel TVE HD
+http://177.93.37.56:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
+http://177.93.37.56:8000/play/a03l/index.m3u8
+
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/space.png" group-title="Cine",Space HD
 http://181.78.6.106:45000/play/a01e
 #EXTINF:-1 tvg-id="TNTSE" tvg-logo="https://profekadi.github.io/iptv/logos/TNT_Series.png" group-title="Cine",TNT Series
@@ -243,20 +263,34 @@ http://186.148.163.18:8000/play/a036
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
 http://179.1.132.203:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports Sd
+http://45.176.232.106:45000/play/a034/index.m3u8
 ##EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports HD
 http://138.186.20.13:23200/play/a04s
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD1
 http://181.78.6.106:45000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports +
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports + SD
 http://186.148.163.18:8000/play/a043
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD2
 http://138.186.20.13:23200/play/a066
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD3
+http://45.176.232.106:45000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD4
+http://177.93.37.56:8000/play/a02e/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
+http://177.93.37.56:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
+http://177.93.37.56:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes HD
+http://177.93.37.56:8000/play/a04c/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Deportes",Movistar Plus
+http://177.93.37.56:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Deportes",Movistar Plus
+http://177.93.37.56:8000/play/a00g/index.m3u8
 
 
 
