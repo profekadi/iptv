@@ -1,82 +1,97 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Uno
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/TUCAN.png" group-title="Nacionales",Canal Tucannet La Calera
+https://glb.bozztv.com/glb/ssh101/tucannetlive/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
 http://186.148.163.18:8000/play/a002
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Uno
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
 http://181.78.6.106:45000/play/a02c
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Uno
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
 http://181.78.6.106:45000/play/b086
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Caracol 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol 
 http://186.148.163.18:8000/play/a003
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Caracol
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol
 http://181.78.6.106:45000/play/a02d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Caracol HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD
 http://181.78.6.106:45000/play/a00b
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Caracol HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD
 http://186.148.163.18:8000/play/a045
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Rcn
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn HD TDT
+http://138.186.20.13:23200/play/a0i2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://186.148.163.18:8000/play/a004
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Rcn
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://181.78.6.106:45000/play/a02e
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Institucional
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional
 http://186.148.163.18:8000/play/a005
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Institucional
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Canal Institucional
 http://181.78.6.106:45000/play/a02f
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal del Congreso
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/congreso.png" group-title="Nacionales",Canal del Congreso
 http://186.148.163.18:8000/play/a006
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Señal Colombia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
 http://186.148.163.18:8000/play/a007
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Señal Colombia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
 http://181.78.6.106:45000/play/b079
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Señal Colombia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
 http://181.78.6.106:45000/play/a03l
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",City TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/city.png" group-title="Nacionales",City TV
 http://181.78.6.106:45000/play/a02v
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Zoom 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom 
 http://186.148.163.18:8000/play/a009
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Zoom
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom
 http://181.78.6.106:45000/play/a00d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Capital
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/capital.png" group-title="Nacionales",Canal Capital
 http://181.78.6.106:45000/play/b0105
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Cablenoticias
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cablenoticias.png" group-title="Nacionales",Cablenoticias
 http://181.78.6.106:45000/play/b098
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telecafé
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecafe.png" group-title="Nacionales",Telecafé
 http://186.148.163.18:8000/play/a055
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal 13
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/trece.png" group-title="Nacionales",Canal 13
 http://186.148.163.18:8000/play/a056
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Tro
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tro.png" group-title="Nacionales",Canal Tro
 http://181.78.6.106:45000/play/b096
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",TV Hogar
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hogar.png" group-title="Nacionales",TV Hogar
 http://181.78.6.106:45000/play/b070
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",TV Agro
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/agros.png" group-title="Nacionales",TV Agro
 http://181.78.6.106:45000/play/b0109
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Teleantioquia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/teleantioquia.png" group-title="Nacionales",Teleantioquia
 http://181.78.6.106:45000/play/a02t
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telemedellin
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telemedellin.png" group-title="Nacionales",Telemedellin
 http://181.78.6.106:45000/play/b094
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telecafe
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecafe.png" group-title="Nacionales",Telecafe
 http://181.78.6.106:45000/play/a031
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Teleislas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/teleislas.png" group-title="Nacionales",Teleislas
 http://181.78.6.106:45000/play/a00g
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telepacifico
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telepacifico.png" group-title="Nacionales",Telepacifico
 http://181.78.6.106:45000/play/a02u
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Teleamiga
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/amiga.png" group-title="Nacionales",Teleamiga
 http://181.78.6.106:45000/play/b082
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telenatilla
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/antillas.png" group-title="Nacionales",Teleantillas
 http://181.78.6.106:45000/play/b092
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telecaribe
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecaribe.png" group-title="Nacionales",Telecaribe
 http://181.78.6.106:45000/play/b077
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telecaribe
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecaribe.png" group-title="Nacionales",Telecaribe
 http://181.78.6.106:45000/play/a030
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telepacifico
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telepacifico.png" group-title="Nacionales",Telepacifico
 http://181.78.6.106:45000/play/b0101
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Telesistemas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telesistemas.png" group-title="Nacionales",Telesistemas
 http://181.78.6.106:45000/play/b081
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Canal Chd
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/chd.png" group-title="Nacionales",Canal Chd
 http://181.78.6.106:45000/play/a009
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",El Gourmet HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/gourmet.png" group-title="Nacionales",El Gourmet HD
 http://181.78.6.106:45000/play/a00n
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Nacionales",Pasiones
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/pasiones.png" group-title="Nacionales",Pasiones
 http://181.78.6.106:45000/play/a00j
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://profekadi.github.io/iptv/logos/Red.png" group-title="Nacionales",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Comedia",Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://seeklogo.com/images/C/comedy-central-logo-E109A89EBB-seeklogo.com.png" group-title="Comedia",Comedy Central
+http://181.78.105.146:2000/play/a04a/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="TropicalTv" tvg-logo="https://profekadi.github.io/iptv/logos/tropicaltv.png" group-title="Regionales",TropicalTv
@@ -95,7 +110,7 @@ https://59a564764e2b6.streamlock.net/ctv /ctv/playlist.m3u8
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="Canal VIP" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Regionales",Canal VIP Cali
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleSanJacinto" tvg-logo="https://profekadi.github.io/iptv/logos/tsj.png" group-title="Regionales",TeleSanJacinto
+#EXTINF:-1 tvg-id="TeleSanJacinto" tvg-logo="https://tuteleiptv.github.io/iptv/sanjacinto.png" group-title="Regionales",TeleSanJacinto
 https://movil.ejeserver.com/live/telesanjacinto.m3u8
 
 
@@ -113,183 +128,246 @@ http://181.78.105.146:2000/play/a015/index.m3u8
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Infantil",Eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Infantil",Baby Tv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/baby.png" group-title="Infantil",Baby Tv
 http://181.78.6.106:45000/play/b0114
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Infantil",Nikelodeon
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/nik.png" group-title="Infantil",Nikelodeon
 http://186.148.163.18:8000/play/a037
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Infantil",Disney Channel
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/disney.png" group-title="Infantil",Disney Channel
 http://181.78.6.106:45000/play/b072
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Infantil",Disney Jr
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/dieneyjr.png" group-title="Infantil",Disney Jr
 http://181.78.6.106:45000/play/a03c
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Infantil",Toomcast
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tooncast.png" group-title="Infantil",Tooncast
 http://181.78.6.106:45000/play/b0107
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Discovery Channel
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/discoverychannel.png" group-title="Entretenimiento",Discovery Channel
 http://186.148.163.18:8000/play/a015
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Discovery H&H
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hh.png" group-title="Entretenimiento",Discovery H&H
 http://186.148.163.18:8000/play/a010
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Discovery Turbo
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/dt.png" group-title="Entretenimiento",Discovery Turbo
 http://181.78.6.106:45000/play/a004
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Discovery ID
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/id.png" group-title="Entretenimiento",Discovery ID
 http://181.78.6.106:45000/play/a007
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Lifetime
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/life.png" group-title="Entretenimiento",Lifetime
 http://181.78.6.106:45000/play/a00f
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Disney Channel
-http://186.148.163.18:8000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Animal Planet
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/animal.png" group-title="Entretenimiento",Animal Planet
 http://186.148.163.18:8000/play/a016
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",E!
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/e.png" group-title="Entretenimiento",E!
 http://186.148.163.18:8000/play/a018
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Canal de las Estrellas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/estrellas.png" group-title="Entretenimiento",Canal de las Estrellas
 http://186.148.163.18:8000/play/a029
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Nat Geo
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/ng.png" group-title="Entretenimiento",Nat Geo
 http://186.148.163.18:8000/play/a038
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimientos",Histoy Channel
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/h.png" group-title="Entretenimiento",Histoy Channel
 http://186.148.163.18:8000/play/a039
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",History2 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/h2.png" group-title="Entretenimiento",History2 HD
 http://186.148.163.18:8000/play/a051
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Animal Planet
-http://181.78.6.106:45000/play/a006
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Nat Geo HD
-http://181.78.6.106:45000/play/a010
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Telenostalgia
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tln.png" group-title="Entretenimiento",Telenostalgia
 http://181.78.6.106:45000/play/b0108
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",TNT Novelas HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tntn.png" group-title="Entretenimiento",TNT Novelas HD
 http://186.148.163.18:8000/play/a057
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Telenovelas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tln2.png" group-title="Entretenimiento",Telenovelas
 http://181.78.6.106:45000/play/b073
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Entretenimiento",Rcn Novelas
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcnnn.png" group-title="Entretenimiento",Rcn Novelas
 http://181.78.6.106:45000/play/a03j
 
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cinecanal.png" group-title="Cine",Cinecanal
 http://181.78.6.106:45000/play/b089
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Paramount Network
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/pn.png" group-title="Cine",Paramount Network
 http://186.148.163.18:8000/play/a046
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Studio Universal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/su.png" group-title="Cine",Studio Universal
 http://186.148.163.18:8000/play/a047
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cinema Universal
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uc.png" group-title="Cine",Cinema Universal
 http://186.148.163.18:8000/play/a049
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",HBO Family HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine",HBO
+http://177.93.46.163:8000/play/a01z
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine",HBO 2
+http://177.93.46.163:8000/play/a00m
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbof.png" group-title="Cine",HBO Family HD
 http://186.148.163.18:8000/play/a052
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",HBO Xtreme HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine",HBO Xtreme HD
 http://186.148.163.18:8000/play/a053
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Warner Bross
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine"HBO Plus
+http://177.93.46.163:8000/play/a00n
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine",HBO Xtreme Sd
+http://177.93.46.163:8000/play/a00o
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/wb.png" group-title="Cine",Warner Bross
 http://186.148.163.18:8000/play/a017
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",AXN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/axn.png" group-title="Cine",AXN
 http://181.78.6.106:45000/play/a00k
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cine Familiar
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cf.png" group-title="Cine",Cine Familiar
 http://181.78.6.106:45000/play/b0116
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cine Hispano
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/ci.png" group-title="Cine",Cine Hispano
 http://181.78.6.106:45000/play/b0117
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cine Infantil
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cii.png" group-title="Cine",Cine Infantil
 http://181.78.6.106:45000/play/b0118
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cine Premium
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cp.png" group-title="Cine",Cine Premium
 http://181.78.6.106:45000/play/b0115
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cinemax.png" group-title="Cine",Cinemax
 http://181.78.6.106:45000/play/a00l
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",De Película
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/dp.png" group-title="Cine",De Película
 http://181.78.6.106:45000/play/b088
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",De Película 2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/dp.png" group-title="Cine",De Película 2
 http://181.78.6.106:45000/play/a039
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Fx
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fx.png" group-title="Cine",Fx
 http://181.78.6.106:45000/play/b076
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/gol.png" group-title="Cine",Golden
 http://181.78.6.106:45000/play/b0110
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Tlc
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tlc.png" group-title="Cine",Tlc
 http://181.78.6.106:45000/play/a005
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",TyC
-http://181.78.6.106:45000/play/a00i
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Star Channel
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
 http://181.78.6.106:45000/play/a00t
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Cine",Space HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/space.png" group-title="Cine",Space HD
 http://181.78.6.106:45000/play/a01e
+#EXTINF:-1 tvg-id="TNTSE" tvg-logo="https://profekadi.github.io/iptv/logos/TNT_Series.png" group-title="Cine",TNT Series
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://profekadi.github.io/iptv/logos/TNT.png" group-title="Cine",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://profekadi.github.io/iptv/logos/Sony_Channel_Logo.png" group-title="Cine",SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Religioso",Cristovision
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cv.png" group-title="Religioso",Cristovision
 http://181.78.6.106:45000/play/b093
 #EXTINF:-1 tvg-id="Tv Vaticano" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="Religioso",Tv Vaticano
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Religioso",Bethel TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/Bethel.png" group-title="Religioso",Bethel TV
 http://181.78.6.106:45000/play/a037
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Religioso",Enlace Tv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/enlace.png" group-title="Religioso",Enlace Tv
 http://186.148.163.18:8000/play/a036
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Win Sports+ HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
+http://179.1.132.203:8000/play/a034/index.m3u8
+##EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports HD
+http://138.186.20.13:23200/play/a04s
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD
 http://181.78.6.106:45000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Win Sports +
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports +
 http://186.148.163.18:8000/play/a043
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD
+http://138.186.20.13:23200/play/a066
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn.png" group-title="Deportes",Espn
 http://186.148.163.18:8000/play/a008
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn.png" group-title="Deportes",Espn 
 http://181.78.6.106:45000/play/a03g
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn1.png" group-title="Deportes",Espn 1
 http://181.78.6.106:45000/play/b0113
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn2.png" group-title="Deportes",Espn 2
 http://181.78.6.106:45000/play/b0112
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 2 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn2.png" group-title="Deportes",Espn 2 
 http://181.78.6.106:45000/play/a03d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 3
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn3.png" group-title="Deportes",Espn 3
 http://181.78.6.106:45000/play/b0111
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 3 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn3.png" group-title="Deportes",Espn 3 HD
 http://181.78.6.106:45000/play/a03k
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 4
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn4.png" group-title="Deportes",Espn 4
 http://181.78.6.106:45000/play/b074
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 5
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn5.png" group-title="Deportes",Espn 5
 http://181.78.6.106:45000/play/a028
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 5
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn5.png" group-title="Deportes",Espn 5
 http://186.148.163.18:8000/play/a019
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 5
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn5.png" group-title="Deportes",Espn 5
 http://186.148.163.18:8000/play/a013
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 6
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn6.png" group-title="Deportes",Espn 6
 http://181.78.6.106:45000/play/a03h
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn 7
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn7.png" group-title="Deportes",Espn 7
 http://181.78.6.106:45000/play/a03i
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Espn Premium HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espnp.png" group-title="Deportes",Espn Premium HD
 http://186.148.163.18:8000/play/a050
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Fox Sports
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fs.png" group-title="Deportes",Fox Sports
 http://181.78.6.106:45000/play/b075
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fs2.png" group-title="Deportes",Fox Sports 2
 http://181.78.6.106:45000/play/a01r
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Deportes",Fox Sports 3 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fs3.png" group-title="Deportes",Fox Sports 3 HD
 http://181.78.6.106:45000/play/a01b
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tyc.png" group-title="Deportes",TyC
+http://181.78.6.106:45000/play/a00i
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/csport.png" group-title="Deportes",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Musica",Musica Popular
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/mp.png" group-title="Musica",Musica Popular
 http://181.78.6.106:45000/play/b0120
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Musica",Musica Reggaeton
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/mr.png" group-title="Musica",Musica Reggaeton
 http://181.78.6.106:45000/play/b0119
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Musica",Musica Romantica
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/mrr.png" group-title="Musica",Musica Romantica
 http://181.78.6.106:45000/play/b0122
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Musica",Musica Salsa
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/ms.png" group-title="Musica",Musica Salsa
 http://181.78.6.106:45000/play/b0121
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Musica",MTV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/mtv.png" group-title="Musica",MTV
 http://181.78.6.106:45000/play/a03b
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Musica",Rumba Tv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rtv.png" group-title="Musica",Rumba Tv
 http://181.78.6.106:45000/play/b097
+#EXTINF:-1 tvg-id="VMLatino.cr" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Musica",VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="Musica",Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Internacionales",Telemundo
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telemundo.png" group-title="Internacionales",Telemundo
 http://181.78.6.106:45000/play/a020
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Internacionales",TVE
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tvee.png" group-title="Internacionales",TVE
 http://181.78.6.106:45000/play/a016
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Internacionales",Cubavision
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cubav.png" group-title="Internacionales",Cubavision
 http://181.78.6.106:45000/play/a036
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Internacionales",Telesur
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telesur.png" group-title="Internacionales",Telesur
 http://181.78.6.106:45000/play/b080
+#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/uni-cable.png" group-title="Internacional" :http-referrer="" :http-user-agent="",Unicable
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://profekadi.github.io/iptv/logos/retroplus.png" group-title="Internacionales",Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Estacion Retro" tvg-logo="https://profekadi.github.io/iptv/logos/estacionretro.png" group-title="Internacionales",Estacion Retro
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Recuerdos Retro" tvg-logo="https://profekadi.github.io/iptv/logos/recuerdo radio.png" group-title="Internacionales",Recuerdos Retro
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Memorias TV" tvg-logo="https://profekadi.github.io/iptv/logos/memoriastv.png" group-title="Internacionales",Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Internacionales",Panamericana TV
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Internacionales",Televisa Puebla
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Internacional",TV Perú Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Internacionales",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://profekadi.github.io/iptv/logos/TVE-HD.png" group-title="Internacionales",TVE Star HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Internacionales",RCN Más
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://profekadi.github.io/iptv/logos/RCN_XTRA.png" group-title="Internacionales",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Internacionales",Telemicro
+http://51.81.93.239:8084/hls/tmicro.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://i.imgur.com/z8M0Dpy.png" group-title="Internacionales",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Internacionales",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Internacionales",VPItv
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo PR" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Internacionales",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
 
