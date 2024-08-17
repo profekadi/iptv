@@ -1,27 +1,29 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/TUCAN.png" group-title="Nacionales",Canal Tucannet La Calera
-https://glb.bozztv.com/glb/ssh101/tucannetlive/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
-http://186.148.163.18:8000/play/a002
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
-http://181.78.6.106:45000/play/a02c
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
-http://181.78.6.106:45000/play/b086
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol SD
 http://186.148.163.18:8000/play/a003
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD Full
+http://45.176.193.222:2405/play/a04r
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol
 http://181.78.6.106:45000/play/a02d
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD
 http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD
 http://186.148.163.18:8000/play/a045
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno HD
+http://45.176.193.222:2405/play/a04t
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
+http://181.78.6.106:45000/play/a02c
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
+http://181.78.6.106:45000/play/b086
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn HD TDT
+http://138.186.20.13:23200/play/a0i2
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://186.148.163.18:8000/play/a004
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://181.78.6.106:45000/play/a02e
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional
-http://186.148.163.18:8000/play/a005
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Canal Institucional
+http://45.176.193.222:2405/play/a00h
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional 2
 http://181.78.6.106:45000/play/a02f
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/congreso.png" group-title="Nacionales",Canal del Congreso
 http://186.148.163.18:8000/play/a006
@@ -31,10 +33,12 @@ http://186.148.163.18:8000/play/a007
 http://181.78.6.106:45000/play/b079
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
 http://181.78.6.106:45000/play/a03l
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/ntn24.png" group-title="Nacionales",NTN
+http://200.59.191.6:5000/play/a0h3
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/city.png" group-title="Nacionales",City TV
 http://181.78.6.106:45000/play/a02v
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom 
-http://186.148.163.18:8000/play/a009
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom
 http://181.78.6.106:45000/play/a00d
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/capital.png" group-title="Nacionales",Canal Capital
@@ -116,6 +120,8 @@ https://movil.ejeserver.com/live/telesanjacinto.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantil",CartoonNetwork
 http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Infantil",CartoonNetwork HD
+http://177.93.37.56:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="OnceKids" tvg-logo="https://profekadi.github.io/iptv/logos/ok.png" group-title="Infantil",OnceKids
 http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJR" tvg-logo="https://profekadi.github.io/iptv/logos/dj.png" group-title="Infantil",DisneyJR
@@ -180,10 +186,18 @@ http://186.148.163.18:8000/play/a046
 http://186.148.163.18:8000/play/a047
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uc.png" group-title="Cine",Cinema Universal
 http://186.148.163.18:8000/play/a049
+#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.icon-icons.com/icons2/2845/PNG/512/hbo_logo_icon_181389.png" group-title="Cine",HBO
+http://177.93.46.163:8000/play/a01z
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/HBO2.png" group-title="Cine",HBO 2
+http://177.93.46.163:8000/play/a00m
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbof.png" group-title="Cine",HBO Family HD
 http://186.148.163.18:8000/play/a052
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine",HBO Xtreme HD
 http://186.148.163.18:8000/play/a053
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/HBO+.png" group-title="Cine",HBO Plus
+http://177.93.46.163:8000/play/a00n
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hbox.png" group-title="Cine",HBO Xtreme Sd
+http://177.93.46.163:8000/play/a00o
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/wb.png" group-title="Cine",Warner Bross
 http://186.148.163.18:8000/play/a017
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/axn.png" group-title="Cine",AXN
@@ -210,6 +224,23 @@ http://181.78.6.106:45000/play/b0110
 http://181.78.6.106:45000/play/a005
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
 http://181.78.6.106:45000/play/a00t
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
+http://177.93.37.56:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD
+http://177.93.37.56:8000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD2
+http://177.93.37.56:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD3
+http://177.93.37.56:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD4
+http://177.93.37.56:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel TVE
+http://177.93.37.56:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel TVE HD
+http://177.93.37.56:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
+http://177.93.37.56:8000/play/a03l/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/space.png" group-title="Cine",Space HD
 http://181.78.6.106:45000/play/a01e
 #EXTINF:-1 tvg-id="TNTSE" tvg-logo="https://profekadi.github.io/iptv/logos/TNT_Series.png" group-title="Cine",TNT Series
@@ -218,10 +249,6 @@ http://181.78.105.146:2000/play/a00m/index.m3u8
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://profekadi.github.io/iptv/logos/Sony_Channel_Logo.png" group-title="Cine",SONY
 http://181.78.105.146:2000/play/a002/index.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cv.png" group-title="Religioso",Cristovision
 http://181.78.6.106:45000/play/b093
 #EXTINF:-1 tvg-id="Tv Vaticano" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="Religioso",Tv Vaticano
@@ -230,19 +257,32 @@ https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 http://181.78.6.106:45000/play/a037
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/enlace.png" group-title="Religioso",Enlace Tv
 http://186.148.163.18:8000/play/a036
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ Full
+http://177.93.37.56:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
+http://179.1.132.203:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports Sd
+http://45.176.232.106:45000/play/a034/index.m3u8
+##EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports HD
+http://138.186.20.13:23200/play/a04s
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD1
 http://181.78.6.106:45000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports +
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports + SD
 http://186.148.163.18:8000/play/a043
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD2
+http://138.186.20.13:23200/play/a066
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD3
+http://45.176.232.106:45000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
+http://177.93.37.56:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
+http://177.93.37.56:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes HD
+http://177.93.37.56:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Deportes",Movistar Plus
+http://177.93.37.56:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Deportes",Movistar Plus
+http://177.93.37.56:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn.png" group-title="Deportes",Espn
 http://186.148.163.18:8000/play/a008
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn.png" group-title="Deportes",Espn 
@@ -285,7 +325,8 @@ http://181.78.105.146:2000/play/a053/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="1" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b1254c/2147483647/strip/true/crop/961x500+0+0/resize/231x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F31%2F0f%2Fef1d5c60475791811ab0a2e0e8c7%2Flogo-la-kalle-portal.png" group-title="Musica",LA KALLE  HD
+http://45.176.193.222:2405/play/a04v
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/mp.png" group-title="Musica",Musica Popular
 http://181.78.6.106:45000/play/b0120
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/mr.png" group-title="Musica",Musica Reggaeton
@@ -316,7 +357,7 @@ http://181.78.6.106:45000/play/a016
 http://181.78.6.106:45000/play/a036
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telesur.png" group-title="Internacionales",Telesur
 http://181.78.6.106:45000/play/b080
-#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/uni-cable.png" group-title="Internacional" :http-referrer="" :http-user-agent="",Unicable
+#EXTINF:-1  tvg-id="Unicable" tvg-logo="https://profekadi.github.io/iptv/logos/uni-cable.png" group-title="Internacionales" :http-referrer="" :http-user-agent="",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="Retro Plus TV" tvg-logo="https://profekadi.github.io/iptv/logos/retroplus.png" group-title="Internacionales",Retro Plus TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -330,7 +371,7 @@ https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8?PlaylistM3UCL
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Internacionales",Televisa Puebla
 https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Internacional",TV Perú Internacional
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Internacionales",TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="Internacionales",TVE Internacional America
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
