@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol SD
-http://186.148.163.18:8000/play/a003
+http://200.59.191.6:5000/play/a039
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD Full
-http://45.176.193.222:2405/play/a04r
+http://200.59.191.6:5000/play/a02y
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol
 http://181.78.6.106:45000/play/a02d
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD
@@ -33,7 +33,7 @@ http://186.148.163.18:8000/play/a007
 http://181.78.6.106:45000/play/b079
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
 http://181.78.6.106:45000/play/a03l
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/ntn24.png" group-title="Nacionales",NTN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/ntn24.png" group-title="Nacionales",NTN
 http://200.59.191.6:5000/play/a0h3
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/city.png" group-title="Nacionales",City TV
 http://181.78.6.106:45000/play/a02v
@@ -224,20 +224,6 @@ http://181.78.6.106:45000/play/b0110
 http://181.78.6.106:45000/play/a005
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
 http://181.78.6.106:45000/play/a00t
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel
-http://177.93.37.56:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD
-http://177.93.37.56:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD2
-http://177.93.37.56:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD3
-http://177.93.37.56:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel HD4
-http://177.93.37.56:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel TVE
-http://177.93.37.56:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/star.png" group-title="Cine",Star Channel TVE HD
-http://177.93.37.56:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
 http://177.93.37.56:8000/play/a03l/index.m3u8
 
@@ -258,7 +244,7 @@ http://181.78.6.106:45000/play/a037
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/enlace.png" group-title="Religioso",Enlace Tv
 http://186.148.163.18:8000/play/a036
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ Full
-http://177.93.37.56:8000/play/a02e/index.m3u8
+http://200.59.191.6:5000/play/a028
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
 http://179.1.132.203:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports Sd
