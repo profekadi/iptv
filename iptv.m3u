@@ -11,22 +11,12 @@ http://181.78.6.106:45000/play/a00b
 http://45.176.193.222:2405/play/a04t
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
 http://181.78.6.106:45000/play/a02c
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
-http://181.78.6.106:45000/play/b086
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn HD TDT
-http://138.186.20.13:23200/play/a0i2
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
-http://186.148.163.18:8000/play/a004
+http://200.59.191.6:5000/play/a03a
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://181.78.6.106:45000/play/a02e
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional
-http://45.176.193.222:2405/play/a00h
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional 2
 http://181.78.6.106:45000/play/a02f
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/congreso.png" group-title="Nacionales",Canal del Congreso
-http://186.148.163.18:8000/play/a006
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
-http://181.78.6.106:45000/play/b079
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
 http://181.78.6.106:45000/play/a03l
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/ntn24.png" group-title="Nacionales",NTN
@@ -34,7 +24,6 @@ http://200.59.191.6:5000/play/a0h3
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/city.png" group-title="Nacionales",City TV
 http://181.78.6.106:45000/play/a02v
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom 
-
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom
 http://181.78.6.106:45000/play/a00d
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/capital.png" group-title="Nacionales",Canal Capital
@@ -43,8 +32,6 @@ http://181.78.6.106:45000/play/b0105
 http://181.78.6.106:45000/play/b098
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecafe.png" group-title="Nacionales",Telecafé
 http://186.148.163.18:8000/play/a055
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/trece.png" group-title="Nacionales",Canal 13
-http://186.148.163.18:8000/play/a056
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tro.png" group-title="Nacionales",Canal Tro
 http://181.78.6.106:45000/play/b096
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hogar.png" group-title="Nacionales",TV Hogar
