@@ -279,10 +279,6 @@ http://181.78.6.106:45000/play/a03g
 http://181.78.6.106:45000/play/b0113
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn2.png" group-title="Deportes",Espn 2
 http://181.78.6.106:45000/play/b0112
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn2.png" group-title="Deportes",Espn 2 
-http://181.78.6.106:45000/play/a03d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn3.png" group-title="Deportes",Espn 3
-http://181.78.6.106:45000/play/b0111
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn3.png" group-title="Deportes",Espn 3 HD
 http://181.78.6.106:45000/play/a03k
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn4.png" group-title="Deportes",Espn 4
@@ -293,12 +289,7 @@ http://181.78.6.106:45000/play/a028
 http://181.78.6.106:45000/play/a03h
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn7.png" group-title="Deportes",Espn 7
 http://181.78.6.106:45000/play/a03i
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fs.png" group-title="Deportes",Fox Sports
-http://181.78.6.106:45000/play/b075
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fs2.png" group-title="Deportes",Fox Sports 2
-http://181.78.6.106:45000/play/a01r
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/fs3.png" group-title="Deportes",Fox Sports 3 HD
-http://181.78.6.106:45000/play/a01b
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tyc.png" group-title="Deportes",TyC
 http://181.78.6.106:45000/play/a00i
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/csport.png" group-title="Deportes",Claro Sport
