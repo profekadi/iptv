@@ -259,15 +259,9 @@ http://200.59.191.6:5000/play/a028
 http://179.1.132.203:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports Sd
 http://45.176.232.106:45000/play/a034/index.m3u8
-##EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports HD
-http://138.186.20.13:23200/play/a04s
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD1
 http://181.78.6.106:45000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports + SD
-http://186.148.163.18:8000/play/a043
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD2
-http://138.186.20.13:23200/play/a066
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD3
 http://45.176.232.106:45000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
 http://177.93.37.56:8000/play/a02i/index.m3u8
