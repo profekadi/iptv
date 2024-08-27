@@ -321,7 +321,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Musica",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/epoca.png" group-title="Internacionales",Epoca
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/epoca.png" group-title="Internacionales",Epoca
 http://200.59.191.6:5000/play/a0hs
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telemundo.png" group-title="Internacionales",Telemundo
 http://181.78.6.106:45000/play/a020
