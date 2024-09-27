@@ -240,26 +240,10 @@ https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
 http://181.78.6.106:45000/play/a037
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/enlace.png" group-title="Religioso",Enlace Tv
 http://200.59.191.6:5000/play/a05m
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ Full
-http://200.59.191.6:5000/play/a028
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
-http://179.1.132.203:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports Sd
-http://45.176.232.106:45000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD1
-http://181.78.6.106:45000/play/a014
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ HD2
+http://200.59.191.6:5000/play/a00n
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ 
 http://45.176.232.106:45000/play/a08e/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
-http://177.93.37.56:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes
-http://177.93.37.56:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://decoradosmoya.es/wp-content/uploads/Movistar_Deportes-Logo.wine_.png" group-title="Deportes",Movistar Deportes HD
-http://177.93.37.56:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Deportes",Movistar Plus
-http://177.93.37.56:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Deportes",Movistar Plus
-http://177.93.37.56:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn.png" group-title="Deportes",Espn 
 http://181.78.6.106:45000/play/a03g
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn1.png" group-title="Deportes",Espn 1
