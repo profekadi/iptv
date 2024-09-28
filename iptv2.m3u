@@ -1,242 +1,382 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracol.png" group-title="Colombia",Caracol
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWQC8tJqDGTKRwlMaUQLYxQ
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracolhd.png" group-title="Colombia",Caracol HD
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWriLGYo5rnp071t30Xr8SH
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/ahora.png" group-title="Colombia",Caracol
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXsJOuaCHzokMEH997uCiUB
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracolhd.png" group-title="Colombia",Caracol Full HD
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWDUnWmMfmYTJWo5mxqpc83
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/caracoli.png" group-title="Colombia",Caracol Internacional
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVCbDWAXVOYcRH9wX66pwBq
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/rcn.png" group-title="Colombia",RCN
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVUuVqzVfevw3vUAfcO_xwV
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/rcn.png" group-title="Colombia",RCN
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVQWDZaUDrhU01wNFTu6hXR
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/rcn.png" group-title="Colombia",RCN
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsX3Muqu81MJ8K22_hd1YaLT
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/rcni.png" group-title="Colombia",RCN Internacional
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUsw3cPw66RA1C0cMpafWLG
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/rcni.png" group-title="Colombia",RCN Internacional
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWULuPED8Q4eSgC7K49l2dE
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/novelas.png" group-title="Colombia",RCN Novelas
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVi1F-CFI9u522uCsWOD-5e
- 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/novelas.png" group-title="Colombia",RCN Novelas
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXp_0u6oI44M-CzzCc3PNMy
-   
-  
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/ntn.png" group-title="Colombia",NTN 24
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWziCeePMGEXPRzVjMKZoF6
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/ntn.png" group-title="Colombia",NTN 24
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUOM_rBO1HuLuVq8cZ8l-ku
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win.png" group-title="Colombia",WinSport+
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmiza_WENAe9h2_brpgx10Wn
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmjjzMnNqwxq42F87nlTXGeD
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmg3YtEIh5UgVFiqKxj5AWmr
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmiCepwPA6bYGDaqGSVSb1zg
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmj8OJR67S91hCteljKRx0bo
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/win+.png" group-title="Colombia",WinSport+ full
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5K7LDwPUCLYYRPw-KEqMmizdPPUDZ0VTKP7c851wXuC
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/TUDN.png" group-title="Colombia",TUDN HD
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8pcMcn47RZu4sddJ9p2ZFqLvzd7zIRJqaNoj88f9rLa
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/uno.png" group-title="Colombia",Canal 1
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVpJmDvzcgnQgjbloI73o3p
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/city.png" group-title="Colombia",City TV
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVuRtaMsOf6hJr9o9LG17AP
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/city.png" group-title="Colombia",City TV
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUApsGE5jDaOxPUdDAruftR
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/city.png" group-title="Colombia",CityTv
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z0yqdZvVVLkRBqdd4VbjJdcH-m-H7F269E77_2mCVfjJ
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/cablenoticias.png" group-title="Colombia",Cablenoticias
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWIKtfZqJq_cWKnvFeveyn2
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/cablenoticias.png" group-title="Colombia",Cablenoticias
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUhHbmfyC_iYVHnIDhiSXWm
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleantioquia.png" group-title="Colombia",Teleantioquia HD
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUkpDD8oGYgkkmTLGFkYm2X
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleantioquia.png" group-title="Colombia",Teleantioquia
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXfk9a9TMDLSW_9mRcNfxk6
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecafe.png" group-title="Colombia",Telecafe
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVKSimjrSdG1VUEreFyLaM8
-
-  
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecafe.png" group-title="Colombia",Telecafe
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVehlkhSmBhI0LizaDjduIV
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecaribe.png" group-title="Colombia",Telecaribe
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXtraWDIUOpGnpcPd8fcZZ9
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telecaribe+.png" group-title="Colombia",Telecaribe Plus
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUmwz2HMNSrOuFU5T6GOxnv
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telepacifico.png" group-title="Colombia",Telepacifico
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsVqLCoFyz_vsvWNMtcVYzGE
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telepacifico.png" group-title="Colombia",Telepacifico
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUrj8ZcQdziM3j6yR4qbvMN
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telemedellin.png" group-title="Colombia",Telemedellin
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsWiYLP97mt0rJjeu9n-5L9U
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telemedellin.png" group-title="Colombia",Telemedellin
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsUXbV5mBcddsvTMMkWFpIVV
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/teleislas.png" group-title="Colombia",Telislas
-"http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsXm1EVAKill-vnjaGWaEXVx
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/senal.png" group-title="Colombia",Señal Colombia
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z8QyVDmJmaR_I9xr-MGKFsX5TZ0rKNy-TkNIFbgwozUl
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/institucional.png" group-title="Colombia",Canal Institucional
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-7fAY3grwF7EBTkfsUuzqjk
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/eltiempo.png" group-title="Colombia",El Tiempo TV
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-6UrJ4ZR8gbL0VM4iXXFbir
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/red+.png" group-title="Colombia",RED + NOTICIAS
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-552FjBZW47Km7dJG4r0hje
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/calitv.png" group-title="Colombia",CALI TV
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-42j1tmg3BY-GTE7Ni0ZBaj
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/trece.png" group-title="Colombia",CANAL TRECE
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-4SI6Hd2FEGTQss_xypRQyj
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/visiondorada.png" group-title="Colombia",CANAL VISION DORADA
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5qGAdiGwgqyxm-1PLS73uV
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/cosmovision.png" group-title="Colombia",COSMOVISION
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5MoL3Q5I0vpTH-2Hr3VZsM
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/capital.png" group-title="Colombia",CANAL CAPITAL
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-7KacHlrvq0jEje465RTd7F
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/90.png" group-title="Colombia",NOTICIERO 90 MINUTOS
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-4vfONVckRvrGsn_7mLTIbq
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/willax.png" group-title="Colombia",WILLAX 
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-5jZ6TjNfnzH2PHcyg8Mdty
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/willaxhd.png" group-title="Colombia",WILLAX TV HD
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3T7kXEGIrahX9Bonorao-51y7bTav4BjkuH7UkqUdkk
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/premium/telesur.png" group-title="Colombia",Telesur
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z2U-vknqZgdCPzl2GPR1_u84E9jbBx01iR3LRVv4BN-2
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cn.png" group-title="Colombia",CartoonNetwork
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z48KaCDiN1sINntDgjKCpTSI8QA0OLyL1aRpX66QNiGu
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Discovery_kids.png" group-title="Colombia",Discovery Kids
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z48KaCDiN1sINntDgjKCpTTvhy-zRTujRPjlJZ6PpUDx
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/disney.png" group-title="Colombia",Disney Channel
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z48KaCDiN1sINntDgjKCpTRdSAMtgM1BVRBgOihUPx45
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinecanal.png" group-title="Colombia",XENA
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqA9Pfv02yPqqW3EzpsKOlHu
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/marvel.png" group-title="Colombia",Cinema Marvel
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z85-SI8FtZf4TD9LEScWl9ceRvecR2S9C0mdg96llkjY
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Sony_Channel_Logo.png" group-title="Colombia",SONY Cine
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z6be5QkbAeHKeFXp2nixaenhCa7rREOlSfzi79R8Z8vT
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/np.png" group-title="Colombia",NETFLIX Películas
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqCSiPlfpxqPsol4OLNeFBXV
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/ap.png" group-title="Colombia",Amazon Prime Películas
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqAG8xPML4vwI2EDMb2UJB8-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/cinema.png" group-title="Colombia",Paranormal
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z7WLvRhgUyzdJkHP-XQ_tqD0SAXrUrsWOv86LiOGjzCx
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpKeB1Ntsd_o4fudbVqn-Hs
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO 2
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpigvXJOkqOk-AYKJQ3RTb0
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Extreme
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7b-p2_lslUhL6zdFsiZT_X2
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Mundi
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLrVN2wtphqH7UJ1W9wR77eC
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Signature
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLrAioixAZDVa52D-e_3LwCk
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/HBO.png" group-title="Colombia",HBO Family
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7zygqCnUeaVTQSKcEA7n9ZLpFRvp13TGmwF1JoRREHw1n
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/ng.png" group-title="Colombia",Nat Geo
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z3aUiHOzOv8-1POHC28LAKcPjC0Vmupsr0Y6lbhgVuo-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/studiouniversal.png" group-title="Colombia",Studio Universal
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7ZbqWb-sLVxEXK6OBV1RtAN
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/space.png" group-title="Colombia",Space
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7YNJajfRJTkF9WyOvNZLvsk
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/FX.png" group-title="Colombia",FX
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7YUlKF3yaZw1jsbqXFRCUrt
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/Warner.png" group-title="Colombia",WARNER
-http://masterplus.live:8080/play/6chqYDihpIuvaNL8ffR7z5mHUKUcWRG310ROsSNzJ7aXbuwcKqil9Osbcw__ZZYK
+#EXTM3U
+#EXTINF:-1,Canal Caracol
+http://200.59.191.6:5000/play/a039
+#EXTINF:-1,Caracol HD
+http://200.59.191.6:5000/play/a02y
+#EXTINF:-1,Canal 24 Horas HD
+http://200.59.191.6:5000/play/a02w
+
+#EXTINF:-1,Canal Claro
+http://200.59.191.6:5000/play/a07t
+#EXTINF:-1,Canal RCN
+http://200.59.191.6:5000/play/a03a
+#EXTINF:-1,Canal Uno
+http://200.59.191.6:5000/play/a037
+#EXTINF:-1,123 TV
+http://200.59.191.6:5000/play/a08r
+#EXTINF:-1,A&E HD
+http://200.59.191.6:5000/play/a00f
+#EXTINF:-1,AE Mundo
+http://200.59.191.6:5000/play/a078
+#EXTINF:-1,ALBA TV
+http://200.59.191.6:5000/play/a08s
+#EXTINF:-1,AMC HD
+http://200.59.191.6:5000/play/a01y
+#EXTINF:-1,ANTV
+http://200.59.191.6:5000/play/a08p
+#EXTINF:-1,ATRES SERIES HD
+http://200.59.191.6:5000/play/a0iq
+#EXTINF:-1,AXN
+http://200.59.191.6:5000/play/a03u
+#EXTINF:-1,AXN HD
+http://200.59.191.6:5000/play/a00i
+#EXTINF:-1,AZ corazon
+http://200.59.191.6:5000/play/a0ek
+#EXTINF:-1,America TV HD
+http://200.59.191.6:5000/play/a02l
+#EXTINF:-1,Andalucia Cocina
+http://200.59.191.6:5000/play/a0eh
+#EXTINF:-1,Animal Planet HD
+http://200.59.191.6:5000/play/a029
+#EXTINF:-1,Antena 3
+http://200.59.191.6:5000/play/a0f3
+#EXTINF:-1,Avila TV
+http://200.59.191.6:5000/play/a092
+#EXTINF:-1,BabyFirst
+http://200.59.191.6:5000/play/a05o
+#EXTINF:-1,Bjgtjme
+http://200.59.191.6:5000/play/a0c1
+#EXTINF:-1,CANAL 25
+http://200.59.191.6:5000/play/a09n
+#EXTINF:-1,CANAL 9
+http://200.59.191.6:5000/play/a094
+#EXTINF:-1,CANAL I
+http://200.59.191.6:5000/play/a09h
+#EXTINF:-1,CCI Channel
+http://200.59.191.6:5000/play/a09g
+#EXTINF:-1,CLAVE
+http://200.59.191.6:5000/play/a08i
+#EXTINF:-1,CNN Espanol
+http://200.59.191.6:5000/play/a06d
+#EXTINF:-1,CNN International
+http://200.59.191.6:5000/play/a0hi
+#EXTINF:-1,COLOMBEIA
+http://200.59.191.6:5000/play/a08q
+#EXTINF:-1,CableNoticias
+http://200.59.191.6:5000/play/a0h4
+#EXTINF:-1,Caillou
+http://200.59.191.6:5000/play/a0dz
+#EXTINF:-1,Canal 11
+http://200.59.191.6:5000/play/a08z
+
+#EXTINF:-1,Canela Novelas
+http://200.59.191.6:5000/play/a0ei
+#EXTINF:-1,Capital
+http://200.59.191.6:5000/play/a03p
+
+#EXTINF:-1,Cartoon Network HD
+http://200.59.191.6:5000/play/a022
+#EXTINF:-1,Cinecanal HD
+http://200.59.191.6:5000/play/a01x
+#EXTINF:-1,Cinemax
+http://200.59.191.6:5000/play/a03s
+#EXTINF:-1,Cinemax HD
+http://200.59.191.6:5000/play/a016
+#EXTINF:-1,City TV
+http://200.59.191.6:5000/play/a03o
+#EXTINF:-1,Claro Cinema
+http://200.59.191.6:5000/play/a043
+#EXTINF:-1,Claro Sports
+http://200.59.191.6:5000/play/a05j
+#EXTINF:-1,Clover
+http://200.59.191.6:5000/play/a0ev
+#EXTINF:-1,Comedy Central HD
+http://200.59.191.6:5000/play/a017
+#EXTINF:-1,ConCiencia TV
+http://200.59.191.6:5000/play/a08t
+#EXTINF:-1,DHE HD
+http://200.59.191.6:5000/play/a030
+#EXTINF:-1,DTV
+http://200.59.191.6:5000/play/a08x
+#EXTINF:-1,De PelŦcula
+http://200.59.191.6:5000/play/a0hr
+#EXTINF:-1,Discovery H&H HD
+http://200.59.191.6:5000/play/a01e
+#EXTINF:-1,Discovery HD
+http://200.59.191.6:5000/play/a0io
+#EXTINF:-1,Discovery Kids HD
+http://200.59.191.6:5000/play/a01d
+#EXTINF:-1,Discovery Theater HD
+http://200.59.191.6:5000/play/a01f
+#EXTINF:-1,Discovery Turbo
+http://200.59.191.6:5000/play/a045
+#EXTINF:-1,Discovery World HD
+http://200.59.191.6:5000/play/a01w
+#EXTINF:-1,Disney Channel
+http://200.59.191.6:5000/play/a06x
+#EXTINF:-1,Disney HD
+http://200.59.191.6:5000/play/a0ip
+#EXTINF:-1,Disney Jr
+http://200.59.191.6:5000/play/a06p
+#EXTINF:-1,E! HD
+http://200.59.191.6:5000/play/a02h
+#EXTINF:-1,ESPN 2 HD
+http://200.59.191.6:5000/play/a013
+#EXTINF:-1,ESPN 3 HD
+http://200.59.191.6:5000/play/a011
+#EXTINF:-1,ESPN 4 HD
+http://200.59.191.6:5000/play/a01j
+#EXTINF:-1,ESPN 6HD
+http://200.59.191.6:5000/play/a0ih
+#EXTINF:-1,ESPN CO
+http://200.59.191.6:5000/play/a03i
+#EXTINF:-1,ESPN EXTRA HD
+http://200.59.191.6:5000/play/a01z
+#EXTINF:-1,ESPN HD
+http://200.59.191.6:5000/play/a02g
+#EXTINF:-1,ESPN HD
+http://200.59.191.6:5000/play/a01p
+#EXTINF:-1,ESPN Premium HD
+http://200.59.191.6:5000/play/a0gh
+#EXTINF:-1,EWTN
+http://200.59.191.6:5000/play/a0fk
+#EXTINF:-1,El Gourmet HD
+http://200.59.191.6:5000/play/a0ir
+#EXTINF:-1,Enlace
+http://200.59.191.6:5000/play/a05m
+#EXTINF:-1,Epoca
+http://200.59.191.6:5000/play/a0hs
+#EXTINF:-1,Esne TV
+http://200.59.191.6:5000/play/a046
+#EXTINF:-1,EuroNews
+http://200.59.191.6:5000/play/a0bq
+#EXTINF:-1,Eurochannel
+http://200.59.191.6:5000/play/a0hj
+#EXTINF:-1,FOX Sports 2 HD
+http://200.59.191.6:5000/play/a01k
+#EXTINF:-1,FX HD
+http://200.59.191.6:5000/play/a01o
+#EXTINF:-1,Food Network HD
+http://200.59.191.6:5000/play/a02k
+#EXTINF:-1,GLOBOVISION
+http://200.59.191.6:5000/play/a093
+#EXTINF:-1,Golden HD
+http://200.59.191.6:5000/play/a02d
+#EXTINF:-1,Golf Channel
+http://200.59.191.6:5000/play/a0fm
+#EXTINF:-1,HBO
+http://200.59.191.6:5000/play/a03r
+#EXTINF:-1,HBO 2 HD
+http://200.59.191.6:5000/play/a027
+#EXTINF:-1,HBO Family
+http://200.59.191.6:5000/play/a06o
+#EXTINF:-1,HBO HD
+http://200.59.191.6:5000/play/a020
+#EXTINF:-1,HBO MUNDI
+http://200.59.191.6:5000/play/a0hb
+#EXTINF:-1,HBO POP HD
+http://200.59.191.6:5000/play/a00m
+#EXTINF:-1,HBO Plus
+http://200.59.191.6:5000/play/a06m
+#EXTINF:-1,HBO Signature
+http://200.59.191.6:5000/play/a0ht
+#EXTINF:-1,HBO XTREME HD
+http://200.59.191.6:5000/play/a035
+#EXTINF:-1,HCH
+http://200.59.191.6:5000/play/a08j
+#EXTINF:-1,HGTV
+http://200.59.191.6:5000/play/a0hq
+#EXTINF:-1,HOLA TV HD
+http://200.59.191.6:5000/play/a00z
+#EXTINF:-1,HTV
+http://200.59.191.6:5000/play/a0h2
+#EXTINF:-1,History 2 HD
+http://200.59.191.6:5000/play/a033
+#EXTINF:-1,History Channel HD
+http://200.59.191.6:5000/play/a00e
+#EXTINF:-1,ID HD
+http://200.59.191.6:5000/play/a018
+#EXTINF:-1,IVC
+http://200.59.191.6:5000/play/a0eu
+#EXTINF:-1,Kanal D Drama HD
+http://200.59.191.6:5000/play/a021
+#EXTINF:-1,La Red HD
+http://200.59.191.6:5000/play/a00s
+#EXTINF:-1,Las Estrellas HD
+http://200.59.191.6:5000/play/a0in
+#EXTINF:-1,Lifetime
+http://200.59.191.6:5000/play/a05p
+#EXTINF:-1,Love Nature HD
+http://200.59.191.6:5000/play/a02t
+#EXTINF:-1,MEGA HD
+http://200.59.191.6:5000/play/a089
+#EXTINF:-1,MTV
+http://200.59.191.6:5000/play/a05c
+#EXTINF:-1,MTV 00s
+http://200.59.191.6:5000/play/a014
+#EXTINF:-1,MTV HD
+http://200.59.191.6:5000/play/a0im
+#EXTINF:-1,MTV LIVE HD
+http://200.59.191.6:5000/play/a01i
+#EXTINF:-1,MUSIC TV
+http://200.59.191.6:5000/play/a08h
+#EXTINF:-1,Maria V
+http://200.59.191.6:5000/play/a0e0
+#EXTINF:-1,Meridiano
+http://200.59.191.6:5000/play/a096
+#EXTINF:-1,Mundo Peq
+http://200.59.191.6:5000/play/a0ed
+#EXTINF:-1,NTN 24 Horas
+http://200.59.191.6:5000/play/a0h3
+#EXTINF:-1,NTV
+http://200.59.191.6:5000/play/a01s
+#EXTINF:-1,Nat Geo HD
+http://200.59.191.6:5000/play/a01v
+#EXTINF:-1,Nick HD
+http://200.59.191.6:5000/play/a00r
+#EXTINF:-1,Nick Jr
+http://200.59.191.6:5000/play/a044
+#EXTINF:-1,Nickelodeon
+http://200.59.191.6:5000/play/a056
+#EXTINF:-1,Novelisima
+http://200.59.191.6:5000/play/a0ef
+#EXTINF:-1,Nuestra Tele
+http://200.59.191.6:5000/play/a0gy
+#EXTINF:-1,Oromar TV
+http://200.59.191.6:5000/play/a09f
+#EXTINF:-1,Paramount HD
+http://200.59.191.6:5000/play/a023
+#EXTINF:-1,Pasiones HD
+http://200.59.191.6:5000/play/a00x
+#EXTINF:-1,Pequeradio
+http://200.59.191.6:5000/play/a0e2
+#EXTINF:-1,RAI
+http://200.59.191.6:5000/play/a0hk
+#EXTINF:-1,RCN HD
+http://200.59.191.6:5000/play/a01q
+#EXTINF:-1,RCN Novelas
+http://200.59.191.6:5000/play/a07q
+#EXTINF:-1,RCN mas
+http://200.59.191.6:5000/play/a0ab
+#EXTINF:-1,RCN xtra
+http://200.59.191.6:5000/play/a0bk
+#EXTINF:-1,Red Advenir
+http://200.59.191.6:5000/play/a09p
+#EXTINF:-1,Run Time
+http://200.59.191.6:5000/play/a0fr
+#EXTINF:-1,SEOTV HD
+http://200.59.191.6:5000/play/a09m
+#EXTINF:-1,SONY Comp
+http://200.59.191.6:5000/play/a0ca
+#EXTINF:-1,STAR CHANNEL HD
+http://200.59.191.6:5000/play/a02v
+#EXTINF:-1,STAR CHANNEL HD
+http://200.59.191.6:5000/play/a00q
+#EXTINF:-1,STAR CHANNEL HD
+http://200.59.191.6:5000/play/a01g
+#EXTINF:-1,STAR TVE HD
+http://200.59.191.6:5000/play/a025
+#EXTINF:-1,Salsa Caribe
+http://200.59.191.6:5000/play/a09y
+#EXTINF:-1,Show Ven TV
+http://200.59.191.6:5000/play/a090
+#EXTINF:-1,Sin Limites
+http://200.59.191.6:5000/play/a084
+#EXTINF:-1,Sony HD
+http://200.59.191.6:5000/play/a00g
+#EXTINF:-1,Sony Novelas
+http://200.59.191.6:5000/play/a0aa
+#EXTINF:-1,Space HD
+http://200.59.191.6:5000/play/a00j
+#EXTINF:-1,Stingray Concerts HD
+http://200.59.191.6:5000/play/a02j
+#EXTINF:-1,Studio Universal
+http://200.59.191.6:5000/play/a06r
+#EXTINF:-1,Studio Universal HD
+http://200.59.191.6:5000/play/a024
+#EXTINF:-1,Sun Channel HD
+http://200.59.191.6:5000/play/a01c
+#EXTINF:-1,SyFy
+http://200.59.191.6:5000/play/a05q
+#EXTINF:-1,TCM
+http://200.59.191.6:5000/play/a05g
+#EXTINF:-1,TELESUR
+http://200.59.191.6:5000/play/a08o
+#EXTINF:-1,TLC
+http://200.59.191.6:5000/play/a07k
+#EXTINF:-1,TLT
+http://200.59.191.6:5000/play/a098
+#EXTINF:-1,TLT HD
+http://200.59.191.6:5000/play/a09e
+#EXTINF:-1,TNT
+http://200.59.191.6:5000/play/a05i
+#EXTINF:-1,TNT HD
+http://200.59.191.6:5000/play/a010
+#EXTINF:-1,TNT Novelas HD
+http://200.59.191.6:5000/play/a0il
+#EXTINF:-1,TNT Series HD
+http://200.59.191.6:5000/play/a01n
+#EXTINF:-1,TOP LATINO TV
+http://200.59.191.6:5000/play/a0gi
+#EXTINF:-1,TRUTV HD
+http://200.59.191.6:5000/play/a019
+#EXTINF:-1,TV Culturas
+http://200.59.191.6:5000/play/a08w
+#EXTINF:-1,TV+ HD
+http://200.59.191.6:5000/play/a01t
+#EXTINF:-1,TVE
+http://200.59.191.6:5000/play/a05n
+#EXTINF:-1,TVES
+http://200.59.191.6:5000/play/a08n
+#EXTINF:-1,TVFANB
+http://200.59.191.6:5000/play/a08y
+#EXTINF:-1,TVS
+http://200.59.191.6:5000/play/a0ce
+#EXTINF:-1,Teleislas
+http://200.59.191.6:5000/play/a03n
+#EXTINF:-1,Telemundo
+http://200.59.191.6:5000/play/a07p
+#EXTINF:-1,Telenovelas
+http://200.59.191.6:5000/play/a0fj
+#EXTINF:-1,Toon Gogles
+http://200.59.191.6:5000/play/a0ec
+#EXTINF:-1,Tooncast
+http://200.59.191.6:5000/play/a0hf
+#EXTINF:-1,Trece
+http://200.59.191.6:5000/play/a04b
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://200.59.191.6:5000/play/a01h
+#EXTINF:-1,Universal
+http://200.59.191.6:5000/play/a05a
+#EXTINF:-1,Universal Cinema SD
+http://200.59.191.6:5000/play/a06u
+#EXTINF:-1,Universal Comedy SD
+http://200.59.191.6:5000/play/a06v
+#EXTINF:-1,Universal Premiere SD
+http://200.59.191.6:5000/play/a06t
+#EXTINF:-1,VEPACO FM
+http://200.59.191.6:5000/play/a09i
+#EXTINF:-1,VPACO TV
+http://200.59.191.6:5000/play/a09d
+#EXTINF:-1,VTV
+http://200.59.191.6:5000/play/a08l
+#EXTINF:-1,VTV HD
+http://200.59.191.6:5000/play/a0iv
+#EXTINF:-1,Venevision
+http://200.59.191.6:5000/play/a095
+#EXTINF:-1,Venevision Plus
+http://200.59.191.6:5000/play/a0f0
+#EXTINF:-1,ViaX
+http://200.59.191.6:5000/play/a07l
+#EXTINF:-1,Vive TV 
+http://200.59.191.6:5000/play/a08m
+#EXTINF:-1,Warner
+http://200.59.191.6:5000/play/a070
+#EXTINF:-1,Warner Channel HD
+http://200.59.191.6:5000/play/a00h
+#EXTINF:-1,Win
+http://200.59.191.6:5000/play/a03y
+#EXTINF:-1,Zona Latina
+http://200.59.191.6:5000/play/a05d
+#EXTINF:-1,Zoom
+http://200.59.191.6:5000/play/a03l
