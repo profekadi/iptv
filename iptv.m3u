@@ -3,49 +3,28 @@
 http://200.59.191.6:5000/play/a039
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD Full
 http://200.59.191.6:5000/play/a02y
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracol.png" group-title="Nacionales",Canal Caracol
-http://181.78.6.106:45000/play/a02d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/caracolhd.png" group-title="Nacionales",Canal Caracol HD
-http://181.78.6.106:45000/play/a00b
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno HD
 http://45.176.193.222:2405/play/a04t
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/uno.png" group-title="Nacionales",Canal Uno
-http://181.78.6.106:45000/play/a02c
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://200.59.191.6:5000/play/a03a
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
-http://181.78.6.106:45000/play/a02e
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional
-http://181.78.6.106:45000/play/a02f
+http://190.0.241.181:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
-http://181.78.6.106:45000/play/a03l
+http://190.60.37.154:45000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/ntn24.png" group-title="Nacionales",NTN
-http://200.59.191.6:5000/play/a0h3
+http://190.0.241.181:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/city.png" group-title="Nacionales",City TV
-http://181.78.6.106:45000/play/a02v
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/zoom.png" group-title="Nacionales",Zoom
-http://181.78.6.106:45000/play/a00d
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/capital.png" group-title="Nacionales",Canal Capital
-http://181.78.6.106:45000/play/b0105
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/cablenoticias.png" group-title="Nacionales",Cablenoticias
-http://181.78.6.106:45000/play/b098
+http://190.0.241.181:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecafe.png" group-title="Nacionales",Telecafé
 http://186.148.163.18:8000/play/a055
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tro.png" group-title="Nacionales",Canal Tro
-http://181.78.6.106:45000/play/b096
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/hogar.png" group-title="Nacionales",TV Hogar
-http://181.78.6.106:45000/play/b070
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/agros.png" group-title="Nacionales",TV Agro
-http://181.78.6.106:45000/play/b0109
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/teleantioquia.png" group-title="Nacionales",Teleantioquia
-http://181.78.6.106:45000/play/a02t
+http://190.0.241.181:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telemedellin.png" group-title="Nacionales",Telemedellin
-http://181.78.6.106:45000/play/b094
+http://190.60.37.154:45000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecafe.png" group-title="Nacionales",Telecafe
-http://181.78.6.106:45000/play/a031
+http://190.60.37.154:45000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/teleislas.png" group-title="Nacionales",Teleislas
-http://181.78.6.106:45000/play/a00g
+http://190.60.37.154:45000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telepacifico.png" group-title="Nacionales",Telepacifico
 http://181.78.6.106:45000/play/a02u
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/amiga.png" group-title="Nacionales",Teleamiga
@@ -53,11 +32,9 @@ http://181.78.6.106:45000/play/b082
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/antillas.png" group-title="Nacionales",Teleantillas
 http://181.78.6.106:45000/play/b092
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecaribe.png" group-title="Nacionales",Telecaribe
-http://181.78.6.106:45000/play/b077
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecaribe.png" group-title="Nacionales",Telecaribe
-http://181.78.6.106:45000/play/a030
+http://190.60.37.154:45000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telepacifico.png" group-title="Nacionales",Telepacifico
-http://181.78.6.106:45000/play/b0101
+http://190.60.37.154:45000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telesistemas.png" group-title="Nacionales",Telesistemas
 http://181.78.6.106:45000/play/b081
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/chd.png" group-title="Nacionales",Canal Chd
