@@ -7,6 +7,12 @@ http://200.59.191.6:5000/play/a02y
 http://45.176.193.222:2405/play/a04t
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/rcn.png" group-title="Nacionales",Canal Rcn
 http://200.59.191.6:5000/play/a03a
+#EXTINF:-1 tvg-id="1" tvg-logo="https://profekadi.github.io/iptv/logos/ntn24.png" group-title="Nacionales",Nuestra Tele
+http://190.0.241.181:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
+http://200.59.191.6:5000/play/a03y
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ 
+http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/institucional.png" group-title="Nacionales",Institucional
 http://190.0.241.181:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/senal.png" group-title="Nacionales",Señal Colombia
@@ -26,34 +32,19 @@ http://190.60.37.154:45000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/teleislas.png" group-title="Nacionales",Teleislas
 http://190.60.37.154:45000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telepacifico.png" group-title="Nacionales",Telepacifico
-http://181.78.6.106:45000/play/a02u
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/amiga.png" group-title="Nacionales",Teleamiga
-http://181.78.6.106:45000/play/b082
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/antillas.png" group-title="Nacionales",Teleantillas
-http://181.78.6.106:45000/play/b092
+http://190.60.37.154:45000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telecaribe.png" group-title="Nacionales",Telecaribe
 http://190.60.37.154:45000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telepacifico.png" group-title="Nacionales",Telepacifico
 http://190.60.37.154:45000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/telesistemas.png" group-title="Nacionales",Telesistemas
-http://181.78.6.106:45000/play/b081
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/chd.png" group-title="Nacionales",Canal Chd
-http://181.78.6.106:45000/play/a009
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/gourmet.png" group-title="Nacionales",El Gourmet HD
-http://181.78.6.106:45000/play/a00n
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/pasiones.png" group-title="Nacionales",Pasiones
-http://181.78.6.106:45000/play/a00j
 #EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://profekadi.github.io/iptv/logos/Red.png" group-title="Nacionales",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Comedia",Distrito Comedia
 http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://seeklogo.com/images/C/comedy-central-logo-E109A89EBB-seeklogo.com.png" group-title="Comedia",Comedy Central
 http://181.78.105.146:2000/play/a04a/index.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="TropicalTv" tvg-logo="https://profekadi.github.io/iptv/logos/tropicaltv.png" group-title="Regionales",TropicalTv
@@ -213,30 +204,22 @@ http://181.78.105.146:2000/play/a002/index.m3u8
 http://181.78.6.106:45000/play/b093
 #EXTINF:-1 tvg-id="Tv Vaticano" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vatican-media-reduced-logo.png" group-title="Religioso",Tv Vaticano
 https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/Bethel.png" group-title="Religioso",Bethel TV
-http://181.78.6.106:45000/play/a037
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/enlace.png" group-title="Religioso",Enlace Tv
 http://200.59.191.6:5000/play/a05m
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win.png" group-title="Deportes",Win Sports
-http://200.59.191.6:5000/play/a03y
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/win+.png" group-title="Deportes",Win Sports+ 
-http://190.60.37.154:45000/play/a00q/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn.png" group-title="Deportes",Espn 
-http://181.78.6.106:45000/play/a03g
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn1.png" group-title="Deportes",Espn 1
-http://181.78.6.106:45000/play/b0113
+http://200.59.191.6:5000/play/a03i
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn1.png" group-title="Deportes",Espn extra
+http://200.59.191.6:5000/play/a01z
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn2.png" group-title="Deportes",Espn 2
-http://181.78.6.106:45000/play/b0112
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn3.png" group-title="Deportes",Espn 3 HD
-http://181.78.6.106:45000/play/a03k
+http://200.59.191.6:5000/play/a013
+#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn3.png" group-title="Deportes",Espn 3 
+http://200.59.191.6:5000/play/a011
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn4.png" group-title="Deportes",Espn 4
-http://181.78.6.106:45000/play/b074
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn5.png" group-title="Deportes",Espn 5
-http://181.78.6.106:45000/play/a028
+http://200.59.191.6:5000/play/a01j
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn6.png" group-title="Deportes",Espn 6
-http://181.78.6.106:45000/play/a03h
-#EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/espn7.png" group-title="Deportes",Espn 7
-http://181.78.6.106:45000/play/a03i
+http://200.59.191.6:5000/play/a0ih
+
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://tuteleiptv.github.io/iptv/tyc.png" group-title="Deportes",TyC
 http://181.78.6.106:45000/play/a00i
